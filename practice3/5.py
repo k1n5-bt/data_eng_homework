@@ -1,7 +1,7 @@
-import json
 from datetime import datetime
 from bs4 import BeautifulSoup
 from requests import get
+from common import safe_to_json
 
 url = 'https://vsalde.ru/page'
 result = []
@@ -20,8 +20,10 @@ months = [
   'декабря'
 ]
 freq = {}
+pages_num = 5
 
-for page in range(1, 11):
+for page in range(1, pages_num + 1):
+    print(f'Page number: {page}/{pages_num}')
     site_page = get(f'{url}/{page}')
     sp = BeautifulSoup(site_page.text, 'html.parser')
     div_dle = sp.body.find('div', {'id': 'dle-content'})
@@ -51,19 +53,25 @@ for page in range(1, 11):
         item['text'] = text
         result.append(item)
 
-with open('out/5/out_final.json', mode='w') as f:
-    json.dump(result, f, ensure_ascii=False)
+safe_to_json(result, 'out/5/out_final.json')
 
-with open('out/5/out_sorted.json', mode='w') as f:
+sorted_list = sorted(result, key=lambda x: datetime.strptime(x['date'], "%d.%m.%Y"))
+safe_to_json(sorted_list, 'out/5/out_sorted.json')
 
-    json.dump(sorted(result, key=lambda x: datetime.strptime(x['date'], "%d.%m.%Y"), reverse=True), f, ensure_ascii=False)
 
-with open('out/5/out_filter.json', mode='w') as f:
-    filtered_list = sorted(result, key=lambda x: datetime.strptime(x['date'], "%d.%m.%Y") < datetime.strptime('10.11.2023', "%d.%m.%Y"), reverse=True)
-    json.dump([*filtered_list], f, ensure_ascii=False)
+filtered_list = [*sorted(
+    filter(lambda x: datetime.strptime(x['date'], "%d.%m.%Y") < datetime.strptime('10.11.2023', "%d.%m.%Y"), result),
+    key=lambda x: datetime.strptime(x['date'], "%d.%m.%Y"),
+    reverse=True,
+)]
+safe_to_json(filtered_list, 'out/5/out_filter.json')
 
-with open('out/5/out_freq.json', mode='w') as f:
-    json.dump(freq, f, ensure_ascii=False)
+safe_to_json(freq, 'out/5/out_freq.json')
 
-print('Min date: ', min(result, key=lambda x: x['date'])['date'])
-print('Max date: ', max(result, key=lambda x: x['date'])['date'])
+safe_to_json(
+    [
+        f"Min date: {min(result, key=lambda x: datetime.strptime(x['date'], '%d.%m.%Y'))['date']}",
+        f"Max date: {max(result, key=lambda x: datetime.strptime(x['date'], '%d.%m.%Y'))['date']}"
+    ],
+    'out/5/out_math_stat.json',
+)

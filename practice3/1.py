@@ -1,6 +1,7 @@
 import os
 import json
 from bs4 import BeautifulSoup
+from common import safe_to_json
 
 dir_path = 'data/1'
 freq = {}
@@ -10,7 +11,7 @@ for filename in os.listdir(dir_path):
     abs_filename = os.path.join(dir_path, filename)
     item = dict()
     item['filename'] = abs_filename
-    with open(abs_filename, mode='r') as html_fp:
+    with open(abs_filename, mode='r', encoding='utf-8') as html_fp:
         sp = BeautifulSoup(html_fp, 'html.parser')
         div_iter = iter(sp.find("div", {"class": "chess-wrapper"}).find_all("div"))
 
@@ -72,23 +73,34 @@ for filename in os.listdir(dir_path):
 
         result.append(item)
 
-with open("out/1/out_final.json", mode='w') as f:
-    json.dump(result, f, ensure_ascii=False)
+safe_to_json(result, 'out/1/out_final.json')
 
-with open("out/1/out_sorted.json", mode='w') as f:
-    sorted_ls = sorted(result, key=lambda x: x['rating_info']['rating'], reverse=True)
-    json.dump(sorted_ls, f, ensure_ascii=False)
+sorted_list = sorted(result, key=lambda x: x['rating_info']['rating'], reverse=True)
+safe_to_json(
+    sorted_list,
+    'out/1/out_sorted.json',
+)
 
-with open("out/1/out_filter.json", mode='w') as f:
-    json.dump([*filter(lambda x: x['tournament']['year'] > 2010, result)], f, ensure_ascii=False)
+filtered_list = [*filter(lambda x: x['tournament']['year'] > 2010, result)]
+safe_to_json(
+    filtered_list,
+    'out/1/out_filter.json',
+)
 
-with open("out/1/out_freq.json", mode='w') as f:
-    json.dump(freq, f, ensure_ascii=False)
+safe_to_json(
+    freq,
+    'out/1/out_freq.json',
+)
 
-print('Min tournament_count: ', min(result, key=lambda x: x['game_info']['tournament_count'])['game_info']['tournament_count'])
-print('Max tournament_count: ', max(result, key=lambda x: x['game_info']['tournament_count'])['game_info']['tournament_count'])
 sum_c = 0
 for i in result:
     sum_c += i['game_info']['tournament_count']
-print('Sum tournament_count: ', sum_c)
-print('Avg tournament_count: ', sum_c / len(result))
+safe_to_json(
+    [
+        f"Min tournament count: {min(result, key=lambda x: x['game_info']['tournament_count'])['game_info']['tournament_count']}",
+        f"Max tournament count: {max(result, key=lambda x: x['game_info']['tournament_count'])['game_info']['tournament_count']}",
+        f"Sum tournament count: {sum_c}",
+        f"Avg tournament count: {sum_c / len(result)}"
+    ],
+    'out/1/out_math_stat.json'
+)

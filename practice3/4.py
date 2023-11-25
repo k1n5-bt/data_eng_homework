@@ -1,6 +1,6 @@
 import os
-import json
 from bs4 import BeautifulSoup
+from common import safe_to_json
 
 dir_path = 'data/4'
 freq = {}
@@ -8,7 +8,7 @@ result = []
 
 for filename in os.listdir(dir_path):
     abs_filename = os.path.join(dir_path, filename)
-    with open(abs_filename, mode='r') as xml_fp:
+    with open(abs_filename, mode='r', encoding='utf-8') as xml_fp:
         sp = BeautifulSoup(xml_fp, features="xml")
         items = sp.find("clothing-items")
         for val in items.find_all("clothing"):
@@ -24,24 +24,25 @@ for filename in os.listdir(dir_path):
             freq[item['size']] = freq[item['size']] + 1 if item['size'] in freq else 1
             result.append(item)
 
+safe_to_json(result, 'out/4/out_final.json')
 
-with open('out/4/out_final.json', mode='w') as f:
-    json.dump(result, f, ensure_ascii=False)
+sorted_list = sorted(result, key=lambda x: x['price'])
+safe_to_json(sorted_list, 'out/4/out_sorted.json')
 
-with open('out/4/out_sorted.json', mode='w') as f:
-    json.dump(sorted(result, key=lambda x: x['price'], reverse=True), f, ensure_ascii=False)
+filtered_list = [*sorted(filter(lambda x: x['rating'] < 2.0, result), key=lambda x: x['rating'], reverse=True)]
+safe_to_json(filtered_list, 'out/4/out_filter.json')
 
-with open('out/4/out_filter.json', mode='w') as f:
-    filtered_list = sorted(filter(lambda x: x['rating'] < 2.0, result), key=lambda x: x['rating'], reverse=True)
-    json.dump([*filtered_list], f, ensure_ascii=False)
+safe_to_json(freq, 'out/4/out_freq.json')
 
-with open('out/4/out_freq.json', mode='w') as f:
-    json.dump(freq, f, ensure_ascii=False)
-
-print('Min price: ', min(result, key=lambda x: x['price'])['price'])
-print('Max price: ', max(result, key=lambda x: x['price'])['price'])
 sum_c = 0
 for i in result:
     sum_c += i['price']
-print('Sum price: ', sum_c)
-print('Avg price: ', sum_c / len(result))
+safe_to_json(
+    [
+        f"Min price: {min(result, key=lambda x: x['price'])['price']}",
+        f"Max price: {max(result, key=lambda x: x['price'])['price']}",
+        f"Sum price: {sum_c}",
+        f"Avg price: {sum_c / len(result)}",
+    ],
+    'out/4/out_math_stat.json'
+)

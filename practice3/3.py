@@ -1,7 +1,6 @@
-import math
 import os
-import json
 from bs4 import BeautifulSoup
+from common import safe_to_json
 
 dir_path = 'data/3'
 freq = {}
@@ -41,25 +40,25 @@ for filename in os.listdir(dir_path):
 
     result.append(item)
 
+safe_to_json(result, 'out/3/out_final.json')
 
-with open('out/3/out_final.json', mode='w', encoding='utf-8') as f:
-    json.dump(result, f, ensure_ascii=False)
+sorted_list = sorted(result, key=lambda x: x['age'], reverse=True)
+safe_to_json(sorted_list, 'out/3/out_sorted.json')
 
-with open('out/3/out_sorted.json', mode='w', encoding='utf-8') as f:
-    json.dump(sorted(result, key=lambda x: x['age'], reverse=True), f, ensure_ascii=False)
+filtered_list = [*filter(lambda x: x['age'] > 3 * (10 ** 9), result)]
+safe_to_json(filtered_list, 'out/3/out_filter.json')
 
-with open('out/3/out_filter.json', mode='w', encoding='utf-8') as f:
-    filtered_list = filter(lambda x: x['age'] > 3 * (10 ** 9), result)
-    json.dump([*filtered_list], f, ensure_ascii=False)
+safe_to_json(freq, 'out/3/out_freq.json')
 
-with open('out/3/out_freq.json', mode='w', encoding='utf-8') as f:
-    json.dump(freq, f, ensure_ascii=False)
-
-
-print('Min distance: ', min(result, key=lambda x: x['distance'])['distance'])
-print('Max distance: ', max(result, key=lambda x: x['distance'])['distance'])
 sum_c = 0
 for i in result:
     sum_c += i['distance']
-print('Sum distance: ', sum_c)
-print('Avg distance: ', sum_c / len(result))
+safe_to_json(
+    [
+        f"Min distance: {min(result, key=lambda x: x['distance'])['distance']}",
+        f"Max distance: {max(result, key=lambda x: x['distance'])['distance']}",
+        f"Sum distance: {sum_c}",
+        f"Avg distance: {sum_c / len(result)}",
+    ],
+    'out/3/out_math_stat.json',
+)
