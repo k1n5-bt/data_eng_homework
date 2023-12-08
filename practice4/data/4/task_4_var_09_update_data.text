@@ -1,0 +1,5284 @@
+name::nice eye cream
+method::remove
+param::
+=====
+name::sublime wheelbarrow
+method::remove
+param::
+=====
+name::Logitech Wireless Keyboard
+method::quantity_add
+param::11
+=====
+name::Epson Expression Home XP
+method::available
+param::True
+=====
+name::luxurious toner
+method::remove
+param::
+=====
+name::Logitech Wireless Keyboard
+method::available
+param::True
+=====
+name::amazing guava
+method::available
+param::False
+=====
+name::superb apple
+method::price_abs
+param::4
+=====
+name::exquisite lip balm
+method::price_percent
+param::0.2
+=====
+name::Intel Core i5
+method::available
+param::False
+=====
+name::exquisite lip balm
+method::quantity_add
+param::113
+=====
+name::Corsair HS60
+method::remove
+param::
+=====
+name::stylish wheelbarrow
+method::available
+param::True
+=====
+name::attractive wheelbarrow
+method::price_percent
+param::0.0
+=====
+name::superb baby shampoo
+method::price_percent
+param::-0.2
+=====
+name::refined insulation
+method::price_abs
+param::-2
+=====
+name::attractive body wash
+method::price_abs
+param::19
+=====
+name::glamorous toothpaste
+method::remove
+param::
+=====
+name::marvelous plum
+method::remove
+param::
+=====
+name::delightful facial cleanser
+method::price_abs
+param::76.527
+=====
+name::WD Blue HDD
+method::quantity_add
+param::2
+=====
+name::beautiful hair mask
+method::price_percent
+param::-0.02
+=====
+name::delightful boysenberry
+method::price_abs
+param::-5
+=====
+name::stylish wheelbarrow
+method::price_abs
+param::11.858
+=====
+name::glamorous night cream
+method::available
+param::True
+=====
+name::HyperX DDR4 RAM
+method::price_percent
+param::0.1
+=====
+name::HP LaserJet Pro
+method::price_abs
+param::-1062
+=====
+name::HP LaserJet Pro
+method::remove
+param::
+=====
+name::Brother DCP-T510W
+method::quantity_add
+param::4
+=====
+name::elegant makeup remover
+method::remove
+param::
+=====
+name::magnificent toner
+method::remove
+param::
+=====
+name::tasteful apple
+method::price_abs
+param::-3
+=====
+name::Epson Expression Home XP
+method::price_abs
+param::2658
+=====
+name::gorgeous nail file
+method::quantity_sub
+param::-78
+=====
+name::delightful blueberry
+method::quantity_add
+param::59
+=====
+name::SteelSeries Arctis 7
+method::price_percent
+param::-0.14
+=====
+name::Canon PIXMA
+method::price_abs
+param::6613
+=====
+name::Epson Expression Home XP
+method::quantity_sub
+param::-9
+=====
+name::Brother DCP-T510W
+method::price_percent
+param::-0.06
+=====
+name::refined facial cleanser
+method::quantity_add
+param::126
+=====
+name::Razer Variau
+method::price_abs
+param::-4055
+=====
+name::elegant makeup remover
+method::quantity_sub
+param::-183
+=====
+name::luxurious tile
+method::available
+param::False
+=====
+name::amazing insulation
+method::available
+param::False
+=====
+name::Brother DCP-T510W
+method::quantity_sub
+param::-1
+=====
+name::beautiful nail file
+method::quantity_sub
+param::-41
+=====
+name::Corsair HS60
+method::available
+param::True
+=====
+name::refined insulation
+method::quantity_sub
+param::-153
+=====
+name::attractive tile
+method::price_percent
+param::0.18
+=====
+name::Canon PIXMA
+method::quantity_add
+param::1
+=====
+name::attractive tile
+method::quantity_sub
+param::-110
+=====
+name::beautiful nail file
+method::quantity_add
+param::92
+=====
+name::trendy body wash
+method::available
+param::False
+=====
+name::attractive lotion
+method::remove
+param::
+=====
+name::HP LaserJet Pro
+method::available
+param::True
+=====
+name::magnificent insulation
+method::available
+param::False
+=====
+name::attractive electrical
+method::remove
+param::
+=====
+name::glamorous peach
+method::price_abs
+param::11
+=====
+name::HP LaserJet Pro
+method::price_percent
+param::-0.2
+=====
+name::luxurious tile
+method::remove
+param::
+=====
+name::refined wheelbarrow
+method::price_percent
+param::0.16
+=====
+name::Ricoh Aficio MP
+method::price_abs
+param::-17666
+=====
+name::EVGA 500B 80+ BRONZE
+method::quantity_sub
+param::-4
+=====
+name::WD Blue HDD
+method::price_abs
+param::18155
+=====
+name::Intel Core i5
+method::quantity_sub
+param::-3
+=====
+name::Samsung 970 EVO SSD
+method::quantity_sub
+param::-4
+=====
+name::Intel Core i5
+method::price_abs
+param::-7776
+=====
+name::Intel Core i5
+method::price_abs
+param::-11596
+=====
+name::WD Blue HDD
+method::remove
+param::
+=====
+name::magnificent toner
+method::price_abs
+param::2
+=====
+name::pretty doors
+method::quantity_add
+param::115
+=====
+name::marvelous blackberry
+method::available
+param::True
+=====
+name::Intel Core i5
+method::remove
+param::
+=====
+name::magnificent insulation
+method::available
+param::True
+=====
+name::marvelous tape measure
+method::quantity_add
+param::157
+=====
+name::tasteful face wash
+method::price_abs
+param::-4
+=====
+name::Corsair HS60
+method::remove
+param::
+=====
+name::superb baby shampoo
+method::quantity_add
+param::41
+=====
+name::marvelous tape measure
+method::price_abs
+param::4
+=====
+name::refined wheelbarrow
+method::quantity_sub
+param::-104
+=====
+name::Epson Expression Home XP
+method::price_percent
+param::0.13
+=====
+name::trendy shovel
+method::price_percent
+param::-0.04
+=====
+name::trendy shovel
+method::price_abs
+param::4
+=====
+name::gorgeous nail file
+method::quantity_add
+param::166
+=====
+name::Brother DCP-T510W
+method::price_percent
+param::0.09
+=====
+name::Logitech Wireless Keyboard
+method::quantity_sub
+param::-3
+=====
+name::Intel Core i5
+method::quantity_add
+param::10
+=====
+name::elegant makeup remover
+method::quantity_add
+param::176
+=====
+name::Intel Core i5
+method::quantity_add
+param::10
+=====
+name::superb makeup remover
+method::price_abs
+param::-5
+=====
+name::attractive axe
+method::available
+param::True
+=====
+name::refined facial cleanser
+method::available
+param::True
+=====
+name::Samsung 970 EVO SSD
+method::available
+param::True
+=====
+name::HP LaserJet Pro
+method::quantity_sub
+param::-12
+=====
+name::amazing boysenberry
+method::quantity_sub
+param::-27
+=====
+name::nice lip balm
+method::quantity_add
+param::28
+=====
+name::beautiful hair mask
+method::price_percent
+param::-0.09
+=====
+name::SteelSeries Arctis 7
+method::price_percent
+param::0.19
+=====
+name::luxurious plum
+method::price_abs
+param::4
+=====
+name::luxurious tile
+method::available
+param::True
+=====
+name::pretty night cream
+method::quantity_add
+param::71
+=====
+name::beautiful nail file
+method::price_percent
+param::0.0
+=====
+name::Canon PIXMA
+method::remove
+param::
+=====
+name::gorgeous nail file
+method::remove
+param::
+=====
+name::Canon PIXMA
+method::remove
+param::
+=====
+name::beautiful scaffolding
+method::remove
+param::
+=====
+name::Epson Expression Home XP
+method::price_percent
+param::0.11
+=====
+name::EVGA 500B 80+ BRONZE
+method::available
+param::True
+=====
+name::pretty night cream
+method::available
+param::True
+=====
+name::Canon PIXMA
+method::available
+param::True
+=====
+name::magnificent toner
+method::price_percent
+param::0.18
+=====
+name::Corsair HS60
+method::price_abs
+param::16071
+=====
+name::luxurious roofing
+method::remove
+param::
+=====
+name::WD Blue HDD
+method::quantity_add
+param::2
+=====
+name::glamorous toothpaste
+method::quantity_add
+param::196
+=====
+name::Canon PIXMA
+method::price_percent
+param::0.12
+=====
+name::SteelSeries Arctis 7
+method::available
+param::True
+=====
+name::Kingston Canvas Select Plus
+method::remove
+param::
+=====
+name::glamorous lotion
+method::remove
+param::
+=====
+name::pretty night cream
+method::quantity_add
+param::4
+=====
+name::Corsair HS60
+method::price_abs
+param::70626.6
+=====
+name::gorgeous apricot
+method::price_abs
+param::6
+=====
+name::beautiful siding
+method::remove
+param::
+=====
+name::marvelous plum
+method::quantity_add
+param::38
+=====
+name::Ricoh Aficio MP
+method::price_abs
+param::5790
+=====
+name::glamorous lotion
+method::price_abs
+param::95.601
+=====
+name::beautiful scaffolding
+method::price_percent
+param::0.05
+=====
+name::AMD Ryzen 5
+method::available
+param::True
+=====
+name::amazing boysenberry
+method::available
+param::False
+=====
+name::Intel Core i5
+method::price_percent
+param::0.1
+=====
+name::WD Blue HDD
+method::available
+param::False
+=====
+name::luxurious plum
+method::remove
+param::
+=====
+name::nice perfume
+method::quantity_add
+param::5
+=====
+name::trendy shovel
+method::available
+param::False
+=====
+name::elegant makeup remover
+method::price_percent
+param::-0.2
+=====
+name::magnificent eye cream
+method::price_abs
+param::9
+=====
+name::gorgeous nail file
+method::price_abs
+param::-1
+=====
+name::Ricoh Aficio MP
+method::price_abs
+param::-912
+=====
+name::trendy body wash
+method::price_percent
+param::0.12
+=====
+name::gorgeous moustache wax
+method::price_percent
+param::0.16
+=====
+name::attractive axe
+method::quantity_sub
+param::-19
+=====
+name::SteelSeries Arctis 7
+method::price_abs
+param::55424.600000000006
+=====
+name::Intel Core i5
+method::available
+param::True
+=====
+name::glamorous toothpaste
+method::quantity_add
+param::94
+=====
+name::superb makeup remover
+method::quantity_add
+param::6
+=====
+name::attractive tile
+method::available
+param::False
+=====
+name::Canon PIXMA
+method::price_abs
+param::-222
+=====
+name::attractive tile
+method::quantity_add
+param::54
+=====
+name::sublime wheelbarrow
+method::quantity_sub
+param::-161
+=====
+name::attractive face wash
+method::quantity_add
+param::194
+=====
+name::Logitech Wireless Keyboard
+method::quantity_add
+param::9
+=====
+name::luxurious plum
+method::quantity_sub
+param::-99
+=====
+name::stylish pineapple
+method::remove
+param::
+=====
+name::luxurious pineapple
+method::available
+param::True
+=====
+name::stylish pineapple
+method::price_percent
+param::0.15
+=====
+name::magnificent toner
+method::price_percent
+param::0.15
+=====
+name::pretty night cream
+method::quantity_add
+param::48
+=====
+name::AMD Ryzen 5
+method::quantity_sub
+param::-3
+=====
+name::amazing guava
+method::price_abs
+param::14
+=====
+name::trendy shovel
+method::available
+param::True
+=====
+name::Epson Expression Home XP
+method::available
+param::True
+=====
+name::Kingston Canvas Select Plus
+method::price_percent
+param::-0.08
+=====
+name::marvelous plum
+method::quantity_sub
+param::-123
+=====
+name::pleasant boysenberry
+method::quantity_sub
+param::-10
+=====
+name::tasteful face wash
+method::remove
+param::
+=====
+name::Ricoh Aficio MP
+method::available
+param::False
+=====
+name::gorgeous siding
+method::quantity_sub
+param::-131
+=====
+name::Corsair HS60
+method::remove
+param::
+=====
+name::Logitech Wireless Keyboard
+method::quantity_sub
+param::-14
+=====
+name::stylish tile
+method::quantity_add
+param::56
+=====
+name::stylish glue
+method::remove
+param::
+=====
+name::Logitech Wireless Keyboard
+method::quantity_add
+param::2
+=====
+name::stylish hammer
+method::price_abs
+param::15.565000000000001
+=====
+name::Ricoh Aficio MP
+method::quantity_sub
+param::-2
+=====
+name::refined insulation
+method::quantity_add
+param::130
+=====
+name::WD Blue HDD
+method::price_abs
+param::18768.2
+=====
+name::Logitech Wireless Keyboard
+method::remove
+param::
+=====
+name::refined grapes
+method::quantity_sub
+param::-28
+=====
+name::glamorous peach
+method::quantity_sub
+param::-93
+=====
+name::refined insulation
+method::remove
+param::
+=====
+name::attractive raspberry
+method::available
+param::True
+=====
+name::stylish hammer
+method::available
+param::False
+=====
+name::amazing insulation
+method::quantity_add
+param::43
+=====
+name::attractive tile
+method::price_percent
+param::0.1
+=====
+name::refined facial cleanser
+method::remove
+param::
+=====
+name::EVGA 500B 80+ BRONZE
+method::available
+param::True
+=====
+name::gorgeous nail file
+method::quantity_add
+param::82
+=====
+name::beautiful hair mask
+method::remove
+param::
+=====
+name::WD Blue HDD
+method::quantity_sub
+param::-1
+=====
+name::Epson Expression Home XP
+method::price_percent
+param::0.12
+=====
+name::Ricoh Aficio MP
+method::remove
+param::
+=====
+name::Brother DCP-T510W
+method::available
+param::False
+=====
+name::EVGA 500B 80+ BRONZE
+method::quantity_sub
+param::-7
+=====
+name::Intel Core i5
+method::quantity_add
+param::5
+=====
+name::trendy night cream
+method::remove
+param::
+=====
+name::trendy body wash
+method::price_abs
+param::3
+=====
+name::nice eye cream
+method::available
+param::False
+=====
+name::beautiful nail file
+method::remove
+param::
+=====
+name::pleasant drywall
+method::price_abs
+param::-2
+=====
+name::delightful blueberry
+method::available
+param::True
+=====
+name::HP LaserJet Pro
+method::price_percent
+param::0.05
+=====
+name::amazing insulation
+method::quantity_sub
+param::-35
+=====
+name::marvelous manicure set
+method::quantity_add
+param::123
+=====
+name::WD Blue HDD
+method::quantity_sub
+param::-2
+=====
+name::trendy shovel
+method::remove
+param::
+=====
+name::stylish tile
+method::available
+param::True
+=====
+name::delightful blueberry
+method::quantity_add
+param::62
+=====
+name::EVGA 500B 80+ BRONZE
+method::available
+param::True
+=====
+name::magnificent insulation
+method::quantity_sub
+param::-111
+=====
+name::Epson Expression Home XP
+method::remove
+param::
+=====
+name::beautiful scaffolding
+method::available
+param::True
+=====
+name::Brother DCP-T510W
+method::quantity_sub
+param::-3
+=====
+name::HP LaserJet Pro
+method::price_percent
+param::-0.11
+=====
+name::SteelSeries Arctis 7
+method::remove
+param::
+=====
+name::magnificent toner
+method::price_percent
+param::-0.2
+=====
+name::SteelSeries Arctis 7
+method::quantity_add
+param::3
+=====
+name::superb level
+method::quantity_sub
+param::-50
+=====
+name::superb makeup remover
+method::quantity_add
+param::20
+=====
+name::pretty plum
+method::price_abs
+param::15.081000000000001
+=====
+name::refined wheelbarrow
+method::price_percent
+param::0.01
+=====
+name::AMD Ryzen 5
+method::quantity_sub
+param::-1
+=====
+name::Brother DCP-T510W
+method::price_abs
+param::104249.20000000001
+=====
+name::pretty plum
+method::price_abs
+param::0
+=====
+name::luxurious tile
+method::quantity_add
+param::57
+=====
+name::tasteful tile
+method::price_percent
+param::-0.08
+=====
+name::amazing guava
+method::quantity_add
+param::74
+=====
+name::superb glue
+method::price_abs
+param::-1
+=====
+name::Kingston Canvas Select Plus
+method::quantity_add
+param::11
+=====
+name::exquisite guava
+method::price_percent
+param::0.04
+=====
+name::refined facial cleanser
+method::quantity_add
+param::153
+=====
+name::Intel Core i5
+method::available
+param::True
+=====
+name::AMD Ryzen 5
+method::price_percent
+param::-0.03
+=====
+name::Samsung 970 EVO SSD
+method::quantity_sub
+param::-4
+=====
+name::WD Blue HDD
+method::remove
+param::
+=====
+name::Corsair HS60
+method::remove
+param::
+=====
+name::gorgeous siding
+method::available
+param::True
+=====
+name::delightful boysenberry
+method::quantity_sub
+param::-37
+=====
+name::AMD Ryzen 5
+method::quantity_sub
+param::-4
+=====
+name::HP LaserJet Pro
+method::remove
+param::
+=====
+name::delightful saw
+method::price_abs
+param::0
+=====
+name::beautiful scaffolding
+method::remove
+param::
+=====
+name::HP LaserJet Pro
+method::quantity_sub
+param::-10
+=====
+name::attractive tile
+method::quantity_add
+param::74
+=====
+name::Corsair HS60
+method::remove
+param::
+=====
+name::pleasant baseboard
+method::remove
+param::
+=====
+name::Samsung 970 EVO SSD
+method::price_percent
+param::0.09
+=====
+name::tasteful raspberry
+method::remove
+param::
+=====
+name::refined grapes
+method::available
+param::True
+=====
+name::Samsung 970 EVO SSD
+method::quantity_add
+param::1
+=====
+name::gorgeous roofing
+method::price_percent
+param::0.12
+=====
+name::Canon PIXMA
+method::quantity_add
+param::3
+=====
+name::luxurious pineapple
+method::price_abs
+param::2
+=====
+name::attractive lotion
+method::quantity_add
+param::26
+=====
+name::gorgeous nail file
+method::price_percent
+param::0.16
+=====
+name::Samsung 970 EVO SSD
+method::available
+param::False
+=====
+name::SteelSeries Arctis 7
+method::quantity_sub
+param::-9
+=====
+name::Intel Core i5
+method::price_abs
+param::-4954
+=====
+name::refined grapes
+method::price_percent
+param::-0.07
+=====
+name::Epson Expression Home XP
+method::available
+param::True
+=====
+name::amazing insulation
+method::quantity_add
+param::97
+=====
+name::Brother DCP-T510W
+method::available
+param::True
+=====
+name::stylish pedicure set
+method::remove
+param::
+=====
+name::trendy body wash
+method::price_abs
+param::5
+=====
+name::exquisite drywall
+method::remove
+param::
+=====
+name::gorgeous moustache wax
+method::price_abs
+param::-11
+=====
+name::beautiful nail file
+method::quantity_add
+param::67
+=====
+name::Logitech Wireless Keyboard
+method::quantity_sub
+param::-9
+=====
+name::Ricoh Aficio MP
+method::quantity_sub
+param::-3
+=====
+name::glamorous peach
+method::available
+param::True
+=====
+name::magnificent eye cream
+method::quantity_sub
+param::-156
+=====
+name::delightful tape measure
+method::quantity_sub
+param::-170
+=====
+name::Canon PIXMA
+method::remove
+param::
+=====
+name::elegant makeup remover
+method::remove
+param::
+=====
+name::Kingston Canvas Select Plus
+method::quantity_add
+param::5
+=====
+name::luxurious tile
+method::available
+param::True
+=====
+name::HyperX DDR4 RAM
+method::price_percent
+param::0.11
+=====
+name::Canon PIXMA
+method::price_percent
+param::-0.14
+=====
+name::Canon PIXMA
+method::price_percent
+param::-0.05
+=====
+name::attractive tile
+method::available
+param::False
+=====
+name::Canon PIXMA
+method::quantity_sub
+param::-10
+=====
+name::WD Blue HDD
+method::price_percent
+param::-0.11
+=====
+name::attractive raspberry
+method::quantity_add
+param::161
+=====
+name::trendy night cream
+method::quantity_add
+param::85
+=====
+name::refined grapes
+method::price_percent
+param::0.15
+=====
+name::nice eye cream
+method::price_abs
+param::3
+=====
+name::delightful moustache wax
+method::price_abs
+param::-10
+=====
+name::nice eye cream
+method::quantity_add
+param::4
+=====
+name::HP LaserJet Pro
+method::quantity_add
+param::5
+=====
+name::refined insulation
+method::price_abs
+param::7
+=====
+name::trendy shovel
+method::remove
+param::
+=====
+name::marvelous blackberry
+method::remove
+param::
+=====
+name::Corsair HS60
+method::available
+param::True
+=====
+name::trendy night cream
+method::available
+param::True
+=====
+name::AMD Ryzen 5
+method::available
+param::False
+=====
+name::beautiful hair mask
+method::price_abs
+param::63.173
+=====
+name::gorgeous roofing
+method::remove
+param::
+=====
+name::beautiful siding
+method::price_abs
+param::-11
+=====
+name::sublime toner
+method::price_abs
+param::4
+=====
+name::Intel Core i5
+method::remove
+param::
+=====
+name::WD Blue HDD
+method::available
+param::False
+=====
+name::Epson Expression Home XP
+method::quantity_add
+param::7
+=====
+name::Ricoh Aficio MP
+method::quantity_add
+param::2
+=====
+name::beautiful siding
+method::quantity_sub
+param::-61
+=====
+name::Canon PIXMA
+method::available
+param::True
+=====
+name::trendy body wash
+method::remove
+param::
+=====
+name::Intel Core i5
+method::quantity_sub
+param::-10
+=====
+name::superb level
+method::price_abs
+param::65.923
+=====
+name::Logitech Wireless Keyboard
+method::price_percent
+param::-0.01
+=====
+name::stylish plumbing
+method::price_percent
+param::-0.12
+=====
+name::Samsung 970 EVO SSD
+method::quantity_add
+param::2
+=====
+name::delightful blueberry
+method::quantity_add
+param::10
+=====
+name::Ricoh Aficio MP
+method::remove
+param::
+=====
+name::beautiful scaffolding
+method::quantity_add
+param::40
+=====
+name::gorgeous kiwifruit
+method::available
+param::False
+=====
+name::HyperX DDR4 RAM
+method::available
+param::True
+=====
+name::Ricoh Aficio MP
+method::price_abs
+param::13054
+=====
+name::elegant wallpaper
+method::remove
+param::
+=====
+name::beautiful lotion
+method::remove
+param::
+=====
+name::tasteful moisturizer
+method::price_percent
+param::0.05
+=====
+name::tasteful tile
+method::available
+param::True
+=====
+name::refined wheelbarrow
+method::quantity_add
+param::72
+=====
+name::HyperX DDR4 RAM
+method::quantity_add
+param::2
+=====
+name::refined blackberry
+method::quantity_sub
+param::-183
+=====
+name::HyperX DDR4 RAM
+method::remove
+param::
+=====
+name::WD Blue HDD
+method::available
+param::True
+=====
+name::attractive raspberry
+method::remove
+param::
+=====
+name::Intel Core i5
+method::price_percent
+param::0.1
+=====
+name::trendy night cream
+method::quantity_add
+param::121
+=====
+name::AMD Ryzen 5
+method::quantity_add
+param::5
+=====
+name::gorgeous roofing
+method::available
+param::True
+=====
+name::Kingston Canvas Select Plus
+method::remove
+param::
+=====
+name::refined serum
+method::price_percent
+param::-0.07
+=====
+name::magnificent eye cream
+method::quantity_sub
+param::-4
+=====
+name::gorgeous moustache wax
+method::remove
+param::
+=====
+name::WD Blue HDD
+method::quantity_sub
+param::-2
+=====
+name::trendy body wash
+method::quantity_sub
+param::-113
+=====
+name::pleasant boysenberry
+method::quantity_add
+param::41
+=====
+name::marvelous plum
+method::quantity_sub
+param::-134
+=====
+name::EVGA 500B 80+ BRONZE
+method::available
+param::False
+=====
+name::refined blackberry
+method::price_abs
+param::10
+=====
+name::superb level
+method::quantity_sub
+param::-71
+=====
+name::exquisite drywall
+method::price_percent
+param::-0.03
+=====
+name::marvelous blackberry
+method::quantity_add
+param::59
+=====
+name::Samsung 970 EVO SSD
+method::price_percent
+param::0.01
+=====
+name::luxurious apple
+method::price_percent
+param::-0.12
+=====
+name::Canon PIXMA
+method::remove
+param::
+=====
+name::Intel Core i5
+method::quantity_add
+param::2
+=====
+name::magnificent toner
+method::price_abs
+param::-6
+=====
+name::Intel Core i5
+method::price_percent
+param::-0.06
+=====
+name::exquisite drywall
+method::remove
+param::
+=====
+name::HP LaserJet Pro
+method::price_percent
+param::-0.18
+=====
+name::Canon PIXMA
+method::price_percent
+param::0.04
+=====
+name::Ricoh Aficio MP
+method::quantity_add
+param::7
+=====
+name::refined insulation
+method::available
+param::True
+=====
+name::beautiful lotion
+method::quantity_sub
+param::-79
+=====
+name::beautiful trim
+method::remove
+param::
+=====
+name::superb level
+method::remove
+param::
+=====
+name::elegant wallpaper
+method::available
+param::False
+=====
+name::EVGA 500B 80+ BRONZE
+method::price_abs
+param::3466
+=====
+name::EVGA 500B 80+ BRONZE
+method::price_percent
+param::0.19
+=====
+name::Brother DCP-T510W
+method::quantity_add
+param::10
+=====
+name::Corsair HS60
+method::quantity_sub
+param::-4
+=====
+name::magnificent insulation
+method::price_percent
+param::0.02
+=====
+name::delightful facial cleanser
+method::quantity_sub
+param::-42
+=====
+name::Razer Variau
+method::quantity_sub
+param::-2
+=====
+name::superb baseboard
+method::price_percent
+param::-0.14
+=====
+name::gorgeous moustache wax
+method::quantity_sub
+param::-111
+=====
+name::nice eye cream
+method::quantity_sub
+param::-150
+=====
+name::refined grapes
+method::quantity_sub
+param::-69
+=====
+name::amazing guava
+method::available
+param::True
+=====
+name::Canon PIXMA
+method::price_abs
+param::14144
+=====
+name::Brother DCP-T510W
+method::available
+param::True
+=====
+name::Brother DCP-T510W
+method::remove
+param::
+=====
+name::Epson Expression Home XP
+method::price_percent
+param::0.03
+=====
+name::trendy shovel
+method::price_abs
+param::-4
+=====
+name::glamorous lotion
+method::price_abs
+param::7
+=====
+name::tasteful moisturizer
+method::remove
+param::
+=====
+name::AMD Ryzen 5
+method::available
+param::True
+=====
+name::EVGA 500B 80+ BRONZE
+method::price_percent
+param::0.08
+=====
+name::amazing insulation
+method::quantity_sub
+param::-117
+=====
+name::delightful tape measure
+method::available
+param::True
+=====
+name::Canon PIXMA
+method::quantity_add
+param::2
+=====
+name::luxurious roofing
+method::price_abs
+param::42.482
+=====
+name::luxurious roofing
+method::quantity_sub
+param::-27
+=====
+name::superb level
+method::remove
+param::
+=====
+name::attractive face wash
+method::price_percent
+param::-0.19
+=====
+name::attractive tile
+method::price_abs
+param::5
+=====
+name::refined grapes
+method::quantity_sub
+param::-17
+=====
+name::trendy body wash
+method::price_abs
+param::0
+=====
+name::elegant insulation
+method::available
+param::True
+=====
+name::Ricoh Aficio MP
+method::price_abs
+param::-18893
+=====
+name::refined grapes
+method::quantity_add
+param::40
+=====
+name::exquisite lip balm
+method::remove
+param::
+=====
+name::Canon PIXMA
+method::quantity_sub
+param::-11
+=====
+name::refined blackberry
+method::price_percent
+param::-0.15
+=====
+name::Corsair HS60
+method::available
+param::True
+=====
+name::beautiful trim
+method::available
+param::True
+=====
+name::amazing guava
+method::price_abs
+param::-2
+=====
+name::Intel Core i5
+method::remove
+param::
+=====
+name::Logitech Wireless Keyboard
+method::available
+param::True
+=====
+name::SteelSeries Arctis 7
+method::quantity_add
+param::7
+=====
+name::nice perfume
+method::price_abs
+param::10
+=====
+name::beautiful siding
+method::remove
+param::
+=====
+name::magnificent insulation
+method::quantity_sub
+param::-66
+=====
+name::AMD Ryzen 5
+method::remove
+param::
+=====
+name::exquisite flooring
+method::price_percent
+param::-0.13
+=====
+name::delightful saw
+method::quantity_add
+param::38
+=====
+name::Samsung 970 EVO SSD
+method::price_percent
+param::-0.06
+=====
+name::HP LaserJet Pro
+method::quantity_add
+param::7
+=====
+name::Canon PIXMA
+method::available
+param::True
+=====
+name::elegant insulation
+method::price_abs
+param::0
+=====
+name::attractive wheelbarrow
+method::price_abs
+param::1
+=====
+name::superb level
+method::quantity_add
+param::92
+=====
+name::beautiful scaffolding
+method::price_abs
+param::14
+=====
+name::Brother DCP-T510W
+method::quantity_add
+param::3
+=====
+name::Corsair HS60
+method::quantity_sub
+param::-3
+=====
+name::gorgeous siding
+method::remove
+param::
+=====
+name::HyperX DDR4 RAM
+method::price_percent
+param::-0.02
+=====
+name::glamorous night cream
+method::price_percent
+param::0.02
+=====
+name::marvelous plum
+method::price_abs
+param::2
+=====
+name::Canon PIXMA
+method::price_abs
+param::-5681
+=====
+name::attractive axe
+method::remove
+param::
+=====
+name::gorgeous siding
+method::price_abs
+param::13
+=====
+name::beautiful nail file
+method::quantity_sub
+param::-157
+=====
+name::refined blackberry
+method::quantity_sub
+param::-31
+=====
+name::trendy body wash
+method::quantity_add
+param::141
+=====
+name::EVGA 500B 80+ BRONZE
+method::remove
+param::
+=====
+name::HP LaserJet Pro
+method::available
+param::True
+=====
+name::elegant wallpaper
+method::available
+param::True
+=====
+name::glamorous lotion
+method::price_percent
+param::0.08
+=====
+name::gorgeous kiwifruit
+method::remove
+param::
+=====
+name::Intel Core i5
+method::available
+param::False
+=====
+name::gorgeous moustache wax
+method::available
+param::False
+=====
+name::superb makeup remover
+method::quantity_sub
+param::-47
+=====
+name::HyperX DDR4 RAM
+method::quantity_add
+param::2
+=====
+name::exquisite flooring
+method::quantity_add
+param::176
+=====
+name::Logitech Wireless Keyboard
+method::quantity_add
+param::13
+=====
+name::trendy body wash
+method::available
+param::False
+=====
+name::Intel Core i5
+method::quantity_add
+param::11
+=====
+name::nice eye cream
+method::available
+param::False
+=====
+name::amazing insulation
+method::remove
+param::
+=====
+name::stylish glue
+method::price_abs
+param::14
+=====
+name::magnificent insulation
+method::price_abs
+param::-1
+=====
+name::attractive lotion
+method::price_percent
+param::-0.01
+=====
+name::refined insulation
+method::price_percent
+param::-0.02
+=====
+name::refined blackberry
+method::price_percent
+param::0.16
+=====
+name::magnificent paint
+method::price_abs
+param::9
+=====
+name::nice perfume
+method::price_abs
+param::60.544000000000004
+=====
+name::refined blackberry
+method::price_percent
+param::0.11
+=====
+name::Intel Core i5
+method::remove
+param::
+=====
+name::Canon PIXMA
+method::price_abs
+param::2
+=====
+name::Samsung 970 EVO SSD
+method::quantity_sub
+param::-4
+=====
+name::exquisite flooring
+method::price_percent
+param::0.14
+=====
+name::sublime nails
+method::price_percent
+param::-0.01
+=====
+name::Epson Expression Home XP
+method::quantity_sub
+param::-14
+=====
+name::refined insulation
+method::quantity_sub
+param::-85
+=====
+name::luxurious screws
+method::price_abs
+param::8
+=====
+name::magnificent insulation
+method::price_percent
+param::0.16
+=====
+name::elegant insulation
+method::remove
+param::
+=====
+name::attractive electrical
+method::price_percent
+param::0.13
+=====
+name::stylish pineapple
+method::remove
+param::
+=====
+name::delightful boysenberry
+method::price_percent
+param::0.2
+=====
+name::Logitech Wireless Keyboard
+method::remove
+param::
+=====
+name::Intel Core i5
+method::quantity_sub
+param::-13
+=====
+name::glamorous peach
+method::quantity_sub
+param::-109
+=====
+name::magnificent toner
+method::quantity_add
+param::71
+=====
+name::Canon PIXMA
+method::quantity_sub
+param::-11
+=====
+name::Brother DCP-T510W
+method::available
+param::True
+=====
+name::WD Blue HDD
+method::price_percent
+param::0.06
+=====
+name::trendy shovel
+method::price_abs
+param::-5
+=====
+name::tasteful moisturizer
+method::remove
+param::
+=====
+name::Logitech Wireless Keyboard
+method::quantity_sub
+param::-5
+=====
+name::elegant makeup remover
+method::available
+param::True
+=====
+name::sublime wheelbarrow
+method::quantity_add
+param::104
+=====
+name::attractive axe
+method::remove
+param::
+=====
+name::beautiful trim
+method::quantity_add
+param::19
+=====
+name::Intel Core i5
+method::price_abs
+param::-2561
+=====
+name::luxurious pineapple
+method::price_percent
+param::0.0
+=====
+name::magnificent eye cream
+method::price_abs
+param::87.263
+=====
+name::tasteful apple
+method::quantity_add
+param::8
+=====
+name::refined wheelbarrow
+method::price_abs
+param::34.507000000000005
+=====
+name::Ricoh Aficio MP
+method::remove
+param::
+=====
+name::marvelous manicure set
+method::quantity_add
+param::88
+=====
+name::attractive electrical
+method::remove
+param::
+=====
+name::pleasant boysenberry
+method::price_abs
+param::20.295
+=====
+name::superb level
+method::quantity_add
+param::42
+=====
+name::glamorous night cream
+method::price_abs
+param::-2
+=====
+name::superb makeup remover
+method::quantity_add
+param::32
+=====
+name::glamorous night cream
+method::quantity_sub
+param::-15
+=====
+name::trendy shovel
+method::price_abs
+param::-5
+=====
+name::superb level
+method::remove
+param::
+=====
+name::attractive face wash
+method::remove
+param::
+=====
+name::Logitech Wireless Keyboard
+method::remove
+param::
+=====
+name::attractive wheelbarrow
+method::price_abs
+param::13
+=====
+name::amazing guava
+method::quantity_sub
+param::-37
+=====
+name::attractive wheelbarrow
+method::remove
+param::
+=====
+name::attractive lotion
+method::price_abs
+param::-2
+=====
+name::Brother DCP-T510W
+method::price_percent
+param::-0.13
+=====
+name::luxurious tile
+method::quantity_sub
+param::-69
+=====
+name::SteelSeries Arctis 7
+method::quantity_sub
+param::-9
+=====
+name::tasteful moisturizer
+method::quantity_sub
+param::-111
+=====
+name::Ricoh Aficio MP
+method::price_percent
+param::-0.07
+=====
+name::sublime grapes
+method::quantity_add
+param::16
+=====
+name::Epson Expression Home XP
+method::available
+param::True
+=====
+name::Epson Expression Home XP
+method::price_percent
+param::-0.13
+=====
+name::gorgeous roofing
+method::remove
+param::
+=====
+name::Epson Expression Home XP
+method::quantity_add
+param::10
+=====
+name::Intel Core i5
+method::price_percent
+param::0.19
+=====
+name::gorgeous roofing
+method::price_percent
+param::0.15
+=====
+name::magnificent toner
+method::quantity_add
+param::44
+=====
+name::HyperX DDR4 RAM
+method::price_abs
+param::11375
+=====
+name::sublime wheelbarrow
+method::remove
+param::
+=====
+name::Epson Expression Home XP
+method::quantity_sub
+param::-1
+=====
+name::HP LaserJet Pro
+method::quantity_sub
+param::-9
+=====
+name::magnificent eye cream
+method::price_percent
+param::-0.07
+=====
+name::stylish tile
+method::remove
+param::
+=====
+name::Canon PIXMA
+method::remove
+param::
+=====
+name::Samsung 970 EVO SSD
+method::quantity_add
+param::3
+=====
+name::Corsair HS60
+method::price_percent
+param::0.03
+=====
+name::elegant wallpaper
+method::price_percent
+param::-0.14
+=====
+name::attractive tile
+method::quantity_add
+param::154
+=====
+name::glamorous night cream
+method::quantity_add
+param::126
+=====
+name::Intel Core i5
+method::price_abs
+param::-2780
+=====
+name::Canon PIXMA
+method::price_percent
+param::-0.18
+=====
+name::amazing nail polish
+method::price_percent
+param::-0.19
+=====
+name::Kingston Canvas Select Plus
+method::price_percent
+param::-0.1
+=====
+name::refined facial cleanser
+method::price_abs
+param::5
+=====
+name::luxurious tile
+method::price_abs
+param::13
+=====
+name::Ricoh Aficio MP
+method::quantity_sub
+param::-4
+=====
+name::exquisite guava
+method::price_percent
+param::0.02
+=====
+name::pleasant boysenberry
+method::remove
+param::
+=====
+name::delightful boysenberry
+method::available
+param::False
+=====
+name::tasteful tile
+method::quantity_sub
+param::-94
+=====
+name::beautiful trim
+method::price_abs
+param::108.59200000000001
+=====
+name::Ricoh Aficio MP
+method::quantity_add
+param::1
+=====
+name::beautiful lotion
+method::quantity_sub
+param::-103
+=====
+name::Ricoh Aficio MP
+method::quantity_sub
+param::-2
+=====
+name::Intel Core i5
+method::quantity_add
+param::4
+=====
+name::trendy makeup remover
+method::remove
+param::
+=====
+name::AMD Ryzen 5
+method::quantity_add
+param::1
+=====
+name::pretty night cream
+method::available
+param::True
+=====
+name::Brother DCP-T510W
+method::available
+param::True
+=====
+name::beautiful trim
+method::available
+param::False
+=====
+name::Epson Expression Home XP
+method::price_percent
+param::0.08
+=====
+name::Ricoh Aficio MP
+method::remove
+param::
+=====
+name::exquisite drywall
+method::remove
+param::
+=====
+name::marvelous plum
+method::available
+param::True
+=====
+name::attractive tile
+method::available
+param::True
+=====
+name::pretty night cream
+method::price_abs
+param::29.271
+=====
+name::HP LaserJet Pro
+method::remove
+param::
+=====
+name::sublime wheelbarrow
+method::quantity_sub
+param::-4
+=====
+name::Samsung 970 EVO SSD
+method::remove
+param::
+=====
+name::refined blackberry
+method::quantity_add
+param::92
+=====
+name::luxurious roofing
+method::quantity_add
+param::64
+=====
+name::Intel Core i5
+method::remove
+param::
+=====
+name::Razer Variau
+method::quantity_add
+param::3
+=====
+name::refined facial cleanser
+method::price_abs
+param::94.501
+=====
+name::gorgeous siding
+method::quantity_sub
+param::-121
+=====
+name::glamorous night cream
+method::price_abs
+param::1
+=====
+name::superb glue
+method::remove
+param::
+=====
+name::gorgeous siding
+method::price_abs
+param::-8
+=====
+name::beautiful siding
+method::price_percent
+param::0.16
+=====
+name::attractive tile
+method::price_abs
+param::52.745000000000005
+=====
+name::Ricoh Aficio MP
+method::quantity_add
+param::6
+=====
+name::Epson Expression Home XP
+method::available
+param::True
+=====
+name::luxurious pineapple
+method::quantity_add
+param::118
+=====
+name::Canon PIXMA
+method::quantity_sub
+param::-5
+=====
+name::EVGA 500B 80+ BRONZE
+method::quantity_sub
+param::-11
+=====
+name::marvelous plum
+method::quantity_sub
+param::-3
+=====
+name::refined wheelbarrow
+method::price_abs
+param::6
+=====
+name::Samsung 970 EVO SSD
+method::price_percent
+param::-0.03
+=====
+name::WD Blue HDD
+method::quantity_sub
+param::-4
+=====
+name::glamorous peach
+method::remove
+param::
+=====
+name::EVGA 500B 80+ BRONZE
+method::price_percent
+param::-0.03
+=====
+name::Brother DCP-T510W
+method::price_percent
+param::-0.17
+=====
+name::Brother DCP-T510W
+method::available
+param::True
+=====
+name::delightful moustache wax
+method::quantity_add
+param::35
+=====
+name::Samsung 970 EVO SSD
+method::remove
+param::
+=====
+name::pretty plum
+method::price_percent
+param::-0.05
+=====
+name::attractive wheelbarrow
+method::price_abs
+param::-10
+=====
+name::amazing guava
+method::quantity_sub
+param::-111
+=====
+name::EVGA 500B 80+ BRONZE
+method::available
+param::False
+=====
+name::Ricoh Aficio MP
+method::quantity_add
+param::1
+=====
+name::Ricoh Aficio MP
+method::quantity_add
+param::1
+=====
+name::Ricoh Aficio MP
+method::remove
+param::
+=====
+name::refined blackberry
+method::remove
+param::
+=====
+name::Intel Core i5
+method::price_abs
+param::81232.8
+=====
+name::superb baby shampoo
+method::price_percent
+param::-0.04
+=====
+name::gorgeous siding
+method::available
+param::False
+=====
+name::delightful facial cleanser
+method::price_abs
+param::-8
+=====
+name::Epson Expression Home XP
+method::price_abs
+param::9844
+=====
+name::Intel Core i5
+method::remove
+param::
+=====
+name::Samsung 970 EVO SSD
+method::price_abs
+param::-361
+=====
+name::attractive body wash
+method::price_abs
+param::-8
+=====
+name::Logitech Wireless Keyboard
+method::quantity_add
+param::13
+=====
+name::Logitech Wireless Keyboard
+method::price_abs
+param::4380
+=====
+name::glamorous toothpaste
+method::price_percent
+param::0.01
+=====
+name::Logitech Wireless Keyboard
+method::price_abs
+param::5195
+=====
+name::exquisite lip balm
+method::quantity_add
+param::67
+=====
+name::WD Blue HDD
+method::available
+param::True
+=====
+name::SteelSeries Arctis 7
+method::remove
+param::
+=====
+name::delightful facial cleanser
+method::price_percent
+param::0.16
+=====
+name::nice eye cream
+method::available
+param::False
+=====
+name::Ricoh Aficio MP
+method::available
+param::True
+=====
+name::delightful tape measure
+method::available
+param::True
+=====
+name::magnificent insulation
+method::quantity_sub
+param::-93
+=====
+name::gorgeous roofing
+method::quantity_add
+param::36
+=====
+name::trendy body wash
+method::price_abs
+param::5
+=====
+name::EVGA 500B 80+ BRONZE
+method::quantity_sub
+param::-4
+=====
+name::elegant insulation
+method::price_abs
+param::-2
+=====
+name::stylish pedicure set
+method::quantity_add
+param::16
+=====
+name::magnificent insulation
+method::price_percent
+param::-0.14
+=====
+name::Ricoh Aficio MP
+method::price_abs
+param::-11664
+=====
+name::refined wheelbarrow
+method::remove
+param::
+=====
+name::pleasant baseboard
+method::available
+param::True
+=====
+name::exquisite guava
+method::price_percent
+param::-0.12
+=====
+name::trendy glue
+method::available
+param::True
+=====
+name::Kingston Canvas Select Plus
+method::price_abs
+param::11130
+=====
+name::beautiful lotion
+method::quantity_sub
+param::-99
+=====
+name::elegant makeup remover
+method::quantity_sub
+param::-64
+=====
+name::superb makeup remover
+method::quantity_add
+param::8
+=====
+name::stylish boysenberry
+method::remove
+param::
+=====
+name::Ricoh Aficio MP
+method::quantity_add
+param::2
+=====
+name::superb glue
+method::quantity_sub
+param::-139
+=====
+name::WD Blue HDD
+method::remove
+param::
+=====
+name::HyperX DDR4 RAM
+method::price_abs
+param::98803.1
+=====
+name::Canon PIXMA
+method::price_percent
+param::-0.15
+=====
+name::attractive body wash
+method::price_percent
+param::-0.12
+=====
+name::glamorous toothpaste
+method::quantity_sub
+param::-45
+=====
+name::trendy glue
+method::price_abs
+param::-3
+=====
+name::gorgeous siding
+method::available
+param::False
+=====
+name::elegant makeup remover
+method::remove
+param::
+=====
+name::Kingston Canvas Select Plus
+method::price_abs
+param::-2808
+=====
+name::luxurious tile
+method::remove
+param::
+=====
+name::glamorous toothpaste
+method::quantity_sub
+param::-58
+=====
+name::Logitech Wireless Keyboard
+method::remove
+param::
+=====
+name::Brother DCP-T510W
+method::available
+param::True
+=====
+name::Canon PIXMA
+method::available
+param::True
+=====
+name::amazing nail file
+method::price_abs
+param::9
+=====
+name::Intel Core i5
+method::available
+param::True
+=====
+name::Epson Expression Home XP
+method::price_percent
+param::0.13
+=====
+name::HP LaserJet Pro
+method::quantity_sub
+param::-8
+=====
+name::gorgeous siding
+method::quantity_sub
+param::-123
+=====
+name::nice eye cream
+method::available
+param::True
+=====
+name::glamorous night cream
+method::quantity_add
+param::94
+=====
+name::Canon PIXMA
+method::remove
+param::
+=====
+name::sublime toner
+method::quantity_add
+param::52
+=====
+name::Brother DCP-T510W
+method::quantity_sub
+param::-1
+=====
+name::luxurious roofing
+method::price_abs
+param::7
+=====
+name::elegant makeup remover
+method::quantity_sub
+param::-91
+=====
+name::Brother DCP-T510W
+method::quantity_sub
+param::-2
+=====
+name::delightful facial cleanser
+method::quantity_sub
+param::-61
+=====
+name::WD Blue HDD
+method::price_abs
+param::2487
+=====
+name::refined serum
+method::quantity_sub
+param::-84
+=====
+name::gorgeous moustache wax
+method::price_abs
+param::6
+=====
+name::Canon PIXMA
+method::quantity_add
+param::8
+=====
+name::Canon PIXMA
+method::quantity_add
+param::1
+=====
+name::NVIDIA GeForce GTX 1050
+method::remove
+param::
+=====
+name::Ricoh Aficio MP
+method::price_percent
+param::-0.14
+=====
+name::Intel Core i5
+method::quantity_sub
+param::-8
+=====
+name::Epson Expression Home XP
+method::price_abs
+param::-2815
+=====
+name::Brother DCP-T510W
+method::quantity_add
+param::4
+=====
+name::Intel Core i5
+method::quantity_sub
+param::-6
+=====
+name::Ricoh Aficio MP
+method::available
+param::True
+=====
+name::tasteful moisturizer
+method::price_percent
+param::-0.15
+=====
+name::attractive lotion
+method::price_abs
+param::-1
+=====
+name::Brother DCP-T510W
+method::available
+param::False
+=====
+name::EVGA 500B 80+ BRONZE
+method::available
+param::False
+=====
+name::delightful facial cleanser
+method::available
+param::True
+=====
+name::stylish wheelbarrow
+method::price_abs
+param::0
+=====
+name::magnificent paint
+method::available
+param::True
+=====
+name::refined facial cleanser
+method::price_percent
+param::-0.06
+=====
+name::glamorous lotion
+method::remove
+param::
+=====
+name::attractive lotion
+method::quantity_sub
+param::-118
+=====
+name::refined grapes
+method::price_abs
+param::12
+=====
+name::beautiful siding
+method::quantity_sub
+param::-55
+=====
+name::tasteful tile
+method::quantity_add
+param::33
+=====
+name::Ricoh Aficio MP
+method::quantity_sub
+param::-5
+=====
+name::AMD Ryzen 5
+method::remove
+param::
+=====
+name::Epson Expression Home XP
+method::available
+param::False
+=====
+name::luxurious roofing
+method::available
+param::True
+=====
+name::pretty night cream
+method::quantity_sub
+param::-37
+=====
+name::superb baby shampoo
+method::quantity_add
+param::41
+=====
+name::Logitech Wireless Keyboard
+method::price_percent
+param::-0.14
+=====
+name::beautiful lotion
+method::quantity_add
+param::134
+=====
+name::Corsair HS60
+method::remove
+param::
+=====
+name::trendy glue
+method::price_abs
+param::-9
+=====
+name::Canon PIXMA
+method::quantity_add
+param::3
+=====
+name::superb makeup remover
+method::available
+param::True
+=====
+name::elegant makeup remover
+method::quantity_add
+param::184
+=====
+name::exquisite drywall
+method::quantity_add
+param::5
+=====
+name::glamorous peach
+method::quantity_sub
+param::-72
+=====
+name::stylish pedicure set
+method::price_percent
+param::-0.11
+=====
+name::gorgeous siding
+method::price_abs
+param::-4
+=====
+name::HyperX DDR4 RAM
+method::price_percent
+param::0.03
+=====
+name::Intel Core i5
+method::price_percent
+param::-0.18
+=====
+name::EVGA 500B 80+ BRONZE
+method::remove
+param::
+=====
+name::elegant wallpaper
+method::price_percent
+param::0.01
+=====
+name::gorgeous siding
+method::quantity_sub
+param::-194
+=====
+name::nice perfume
+method::quantity_sub
+param::-48
+=====
+name::gorgeous body wash
+method::available
+param::True
+=====
+name::gorgeous body wash
+method::quantity_sub
+param::-29
+=====
+name::EVGA 500B 80+ BRONZE
+method::quantity_sub
+param::-3
+=====
+name::glamorous night cream
+method::remove
+param::
+=====
+name::trendy glue
+method::price_abs
+param::61.281000000000006
+=====
+name::Canon PIXMA
+method::price_percent
+param::0.19
+=====
+name::AMD Ryzen 5
+method::price_abs
+param::-3257
+=====
+name::delightful blueberry
+method::price_percent
+param::-0.07
+=====
+name::luxurious tile
+method::price_abs
+param::-8
+=====
+name::nice lip balm
+method::remove
+param::
+=====
+name::elegant insulation
+method::price_percent
+param::0.03
+=====
+name::attractive electrical
+method::price_abs
+param::-2
+=====
+name::attractive lotion
+method::price_abs
+param::2
+=====
+name::refined serum
+method::quantity_add
+param::77
+=====
+name::WD Blue HDD
+method::price_percent
+param::-0.09
+=====
+name::Brother DCP-T510W
+method::price_percent
+param::0.19
+=====
+name::Logitech Wireless Keyboard
+method::price_abs
+param::2247
+=====
+name::pretty papaya
+method::available
+param::False
+=====
+name::EVGA 500B 80+ BRONZE
+method::remove
+param::
+=====
+name::refined insulation
+method::remove
+param::
+=====
+name::delightful saw
+method::available
+param::False
+=====
+name::Canon PIXMA
+method::available
+param::True
+=====
+name::nice eye cream
+method::quantity_add
+param::105
+=====
+name::Razer Variau
+method::remove
+param::
+=====
+name::HP LaserJet Pro
+method::price_abs
+param::37953.3
+=====
+name::attractive electrical
+method::quantity_add
+param::138
+=====
+name::gorgeous nail file
+method::price_percent
+param::0.05
+=====
+name::Corsair HS60
+method::quantity_add
+param::3
+=====
+name::refined facial cleanser
+method::quantity_sub
+param::-186
+=====
+name::WD Blue HDD
+method::quantity_sub
+param::-2
+=====
+name::beautiful siding
+method::quantity_add
+param::79
+=====
+name::attractive electrical
+method::price_percent
+param::-0.11
+=====
+name::trendy night cream
+method::available
+param::True
+=====
+name::refined grapes
+method::quantity_add
+param::46
+=====
+name::Razer Variau
+method::remove
+param::
+=====
+name::trendy night cream
+method::remove
+param::
+=====
+name::Kingston Canvas Select Plus
+method::price_abs
+param::-11930
+=====
+name::luxurious drywall
+method::available
+param::True
+=====
+name::sublime nails
+method::quantity_add
+param::171
+=====
+name::EVGA 500B 80+ BRONZE
+method::quantity_add
+param::5
+=====
+name::Intel Core i5
+method::remove
+param::
+=====
+name::WD Blue HDD
+method::remove
+param::
+=====
+name::Brother DCP-T510W
+method::price_abs
+param::334
+=====
+name::amazing guava
+method::price_abs
+param::-1
+=====
+name::Logitech Wireless Keyboard
+method::remove
+param::
+=====
+name::trendy body wash
+method::quantity_sub
+param::-121
+=====
+name::AMD Ryzen 5
+method::available
+param::False
+=====
+name::Intel Core i5
+method::price_percent
+param::-0.09
+=====
+name::refined serum
+method::available
+param::False
+=====
+name::stylish glue
+method::available
+param::False
+=====
+name::EVGA 500B 80+ BRONZE
+method::available
+param::True
+=====
+name::Razer Variau
+method::price_percent
+param::-0.15
+=====
+name::gorgeous moustache wax
+method::available
+param::False
+=====
+name::Samsung 970 EVO SSD
+method::quantity_add
+param::12
+=====
+name::Kingston Canvas Select Plus
+method::price_percent
+param::0.05
+=====
+name::elegant makeup remover
+method::price_percent
+param::-0.01
+=====
+name::delightful tape measure
+method::price_percent
+param::-0.18
+=====
+name::Intel Core i5
+method::price_abs
+param::12720
+=====
+name::glamorous lotion
+method::remove
+param::
+=====
+name::trendy night cream
+method::quantity_sub
+param::-164
+=====
+name::Intel Core i5
+method::remove
+param::
+=====
+name::SteelSeries Arctis 7
+method::remove
+param::
+=====
+name::trendy makeup remover
+method::available
+param::True
+=====
+name::Corsair HS60
+method::available
+param::False
+=====
+name::gorgeous roofing
+method::quantity_add
+param::143
+=====
+name::refined insulation
+method::price_abs
+param::-5
+=====
+name::Canon PIXMA
+method::price_abs
+param::15314.2
+=====
+name::Ricoh Aficio MP
+method::remove
+param::
+=====
+name::Ricoh Aficio MP
+method::quantity_sub
+param::-1
+=====
+name::gorgeous moustache wax
+method::quantity_sub
+param::-21
+=====
+name::Razer Variau
+method::quantity_add
+param::5
+=====
+name::sublime wheelbarrow
+method::quantity_sub
+param::-126
+=====
+name::gorgeous siding
+method::quantity_add
+param::184
+=====
+name::tasteful moisturizer
+method::quantity_add
+param::26
+=====
+name::stylish pineapple
+method::remove
+param::
+=====
+name::Corsair HS60
+method::available
+param::False
+=====
+name::elegant insulation
+method::price_percent
+param::-0.02
+=====
+name::refined blackberry
+method::quantity_sub
+param::-182
+=====
+name::attractive lotion
+method::price_percent
+param::0.0
+=====
+name::marvelous plum
+method::available
+param::True
+=====
+name::magnificent insulation
+method::quantity_add
+param::114
+=====
+name::Canon PIXMA
+method::price_abs
+param::9
+=====
+name::EVGA 500B 80+ BRONZE
+method::available
+param::False
+=====
+name::tasteful face wash
+method::available
+param::True
+=====
+name::beautiful nail file
+method::quantity_add
+param::51
+=====
+name::attractive lotion
+method::price_abs
+param::12.661000000000001
+=====
+name::Epson Expression Home XP
+method::quantity_add
+param::3
+=====
+name::Canon PIXMA
+method::remove
+param::
+=====
+name::gorgeous moustache wax
+method::quantity_add
+param::109
+=====
+name::AMD Ryzen 5
+method::remove
+param::
+=====
+name::Logitech Wireless Keyboard
+method::quantity_sub
+param::-1
+=====
+name::trendy shovel
+method::remove
+param::
+=====
+name::Intel Core i5
+method::quantity_sub
+param::-1
+=====
+name::glamorous night cream
+method::quantity_add
+param::169
+=====
+name::stylish glue
+method::remove
+param::
+=====
+name::beautiful nail file
+method::available
+param::False
+=====
+name::Kingston Canvas Select Plus
+method::price_abs
+param::90512.40000000001
+=====
+name::luxurious tile
+method::quantity_sub
+param::-9
+=====
+name::delightful facial cleanser
+method::price_percent
+param::0.1
+=====
+name::Razer Variau
+method::price_abs
+param::-13146
+=====
+name::Epson Expression Home XP
+method::price_percent
+param::0.08
+=====
+name::Logitech Wireless Keyboard
+method::available
+param::True
+=====
+name::attractive tile
+method::price_percent
+param::-0.03
+=====
+name::glamorous toothpaste
+method::quantity_add
+param::22
+=====
+name::AMD Ryzen 5
+method::quantity_add
+param::8
+=====
+name::Logitech Wireless Keyboard
+method::quantity_sub
+param::-3
+=====
+name::WD Blue HDD
+method::quantity_sub
+param::-8
+=====
+name::delightful blueberry
+method::remove
+param::
+=====
+name::magnificent insulation
+method::price_abs
+param::2
+=====
+name::gorgeous moustache wax
+method::quantity_add
+param::32
+=====
+name::Ricoh Aficio MP
+method::available
+param::True
+=====
+name::WD Blue HDD
+method::quantity_sub
+param::-2
+=====
+name::trendy shovel
+method::remove
+param::
+=====
+name::Canon PIXMA
+method::price_percent
+param::0.11
+=====
+name::AMD Ryzen 5
+method::available
+param::False
+=====
+name::gorgeous nail file
+method::price_percent
+param::-0.08
+=====
+name::nice lip balm
+method::available
+param::False
+=====
+name::Corsair HS60
+method::remove
+param::
+=====
+name::pretty night cream
+method::quantity_add
+param::54
+=====
+name::attractive axe
+method::price_abs
+param::107.98700000000001
+=====
+name::Logitech Wireless Keyboard
+method::quantity_add
+param::4
+=====
+name::Epson Expression Home XP
+method::remove
+param::
+=====
+name::gorgeous siding
+method::quantity_add
+param::83
+=====
+name::Epson Expression Home XP
+method::price_percent
+param::0.15
+=====
+name::Logitech Wireless Keyboard
+method::quantity_sub
+param::-9
+=====
+name::marvelous blackberry
+method::quantity_sub
+param::-109
+=====
+name::amazing guava
+method::price_percent
+param::0.13
+=====
+name::pretty night cream
+method::remove
+param::
+=====
+name::Epson Expression Home XP
+method::available
+param::True
+=====
+name::luxurious roofing
+method::price_abs
+param::5
+=====
+name::HyperX DDR4 RAM
+method::price_abs
+param::-2742
+=====
+name::Brother DCP-T510W
+method::quantity_add
+param::7
+=====
+name::magnificent toner
+method::available
+param::True
+=====
+name::delightful boysenberry
+method::available
+param::False
+=====
+name::Canon PIXMA
+method::price_abs
+param::-3408
+=====
+name::Intel Core i5
+method::remove
+param::
+=====
+name::refined blackberry
+method::available
+param::True
+=====
+name::HP LaserJet Pro
+method::available
+param::False
+=====
+name::gorgeous roofing
+method::price_abs
+param::1
+=====
+name::trendy makeup remover
+method::quantity_sub
+param::-58
+=====
+name::Ricoh Aficio MP
+method::quantity_add
+param::1
+=====
+name::amazing guava
+method::available
+param::True
+=====
+name::Brother DCP-T510W
+method::quantity_sub
+param::-3
+=====
+name::HP LaserJet Pro
+method::quantity_sub
+param::-4
+=====
+name::Logitech Wireless Keyboard
+method::remove
+param::
+=====
+name::Logitech Wireless Keyboard
+method::available
+param::False
+=====
+name::EVGA 500B 80+ BRONZE
+method::price_percent
+param::0.19
+=====
+name::Epson Expression Home XP
+method::available
+param::True
+=====
+name::WD Blue HDD
+method::quantity_sub
+param::-1
+=====
+name::marvelous blackberry
+method::available
+param::True
+=====
+name::refined facial cleanser
+method::price_percent
+param::-0.03
+=====
+name::Intel Core i5
+method::price_abs
+param::-13893
+=====
+name::amazing insulation
+method::quantity_sub
+param::-45
+=====
+name::Ricoh Aficio MP
+method::available
+param::True
+=====
+name::elegant insulation
+method::price_percent
+param::0.04
+=====
+name::Brother DCP-T510W
+method::remove
+param::
+=====
+name::attractive lotion
+method::price_percent
+param::0.03
+=====
+name::gorgeous siding
+method::price_abs
+param::-1
+=====
+name::Ricoh Aficio MP
+method::price_abs
+param::-2303
+=====
+name::delightful tape measure
+method::available
+param::True
+=====
+name::AMD Ryzen 5
+method::price_percent
+param::-0.13
+=====
+name::WD Blue HDD
+method::price_percent
+param::0.05
+=====
+name::marvelous plum
+method::price_abs
+param::-6
+=====
+name::beautiful hair mask
+method::remove
+param::
+=====
+name::Ricoh Aficio MP
+method::remove
+param::
+=====
+name::EVGA 500B 80+ BRONZE
+method::remove
+param::
+=====
+name::pleasant ladder
+method::price_abs
+param::89.84800000000001
+=====
+name::gorgeous roofing
+method::quantity_add
+param::44
+=====
+name::gorgeous kiwifruit
+method::price_percent
+param::-0.15
+=====
+name::luxurious roofing
+method::quantity_sub
+param::-47
+=====
+name::Logitech Wireless Keyboard
+method::quantity_add
+param::3
+=====
+name::Ricoh Aficio MP
+method::price_percent
+param::0.0
+=====
+name::EVGA 500B 80+ BRONZE
+method::remove
+param::
+=====
+name::Ricoh Aficio MP
+method::price_percent
+param::-0.06
+=====
+name::trendy night cream
+method::price_percent
+param::0.08
+=====
+name::Epson Expression Home XP
+method::price_percent
+param::-0.12
+=====
+name::attractive electrical
+method::remove
+param::
+=====
+name::Intel Core i5
+method::quantity_add
+param::1
+=====
+name::beautiful hair mask
+method::price_abs
+param::-6
+=====
+name::exquisite flooring
+method::quantity_sub
+param::-75
+=====
+name::trendy shovel
+method::remove
+param::
+=====
+name::Logitech Wireless Keyboard
+method::quantity_sub
+param::-6
+=====
+name::Logitech Wireless Keyboard
+method::price_abs
+param::-7149
+=====
+name::superb baseboard
+method::quantity_add
+param::180
+=====
+name::Corsair HS60
+method::price_abs
+param::-1875
+=====
+name::magnificent eye cream
+method::quantity_sub
+param::-22
+=====
+name::Kingston Canvas Select Plus
+method::price_abs
+param::-16382
+=====
+name::Razer Variau
+method::remove
+param::
+=====
+name::stylish tile
+method::quantity_sub
+param::-161
+=====
+name::HP LaserJet Pro
+method::remove
+param::
+=====
+name::tasteful raspberry
+method::quantity_add
+param::47
+=====
+name::trendy glue
+method::quantity_add
+param::1
+=====
+name::Ricoh Aficio MP
+method::price_percent
+param::0.18
+=====
+name::exquisite drywall
+method::price_abs
+param::-9
+=====
+name::nice eye cream
+method::price_percent
+param::-0.09
+=====
+name::Intel Core i5
+method::available
+param::True
+=====
+name::Intel Core i5
+method::available
+param::True
+=====
+name::Ricoh Aficio MP
+method::remove
+param::
+=====
+name::WD Blue HDD
+method::available
+param::True
+=====
+name::pretty night cream
+method::available
+param::True
+=====
+name::luxurious pineapple
+method::quantity_add
+param::54
+=====
+name::Intel Core i5
+method::quantity_add
+param::8
+=====
+name::pretty plum
+method::remove
+param::
+=====
+name::amazing insulation
+method::remove
+param::
+=====
+name::HP LaserJet Pro
+method::price_abs
+param::6621
+=====
+name::trendy glue
+method::price_abs
+param::-6
+=====
+name::HyperX DDR4 RAM
+method::quantity_add
+param::1
+=====
+name::Ricoh Aficio MP
+method::quantity_add
+param::2
+=====
+name::elegant insulation
+method::remove
+param::
+=====
+name::exquisite drywall
+method::quantity_sub
+param::-112
+=====
+name::superb apple
+method::available
+param::False
+=====
+name::gorgeous moustache wax
+method::available
+param::True
+=====
+name::pretty plum
+method::quantity_add
+param::90
+=====
+name::exquisite drywall
+method::price_percent
+param::0.07
+=====
+name::Kingston Canvas Select Plus
+method::price_percent
+param::-0.09
+=====
+name::exquisite drywall
+method::price_percent
+param::0.16
+=====
+name::Intel Core i5
+method::quantity_add
+param::2
+=====
+name::Canon PIXMA
+method::quantity_add
+param::10
+=====
+name::Canon PIXMA
+method::remove
+param::
+=====
+name::magnificent eye cream
+method::available
+param::True
+=====
+name::nice eye cream
+method::price_abs
+param::0
+=====
+name::glamorous peach
+method::price_abs
+param::2
+=====
+name::gorgeous siding
+method::price_percent
+param::-0.05
+=====
+name::NVIDIA GeForce GTX 1050
+method::available
+param::True
+=====
+name::beautiful lotion
+method::price_percent
+param::0.04
+=====
+name::nice perfume
+method::quantity_sub
+param::-34
+=====
+name::beautiful lotion
+method::price_abs
+param::11
+=====
+name::refined wheelbarrow
+method::quantity_add
+param::34
+=====
+name::Ricoh Aficio MP
+method::remove
+param::
+=====
+name::Intel Core i5
+method::quantity_sub
+param::-2
+=====
+name::SteelSeries Arctis 7
+method::remove
+param::
+=====
+name::gorgeous siding
+method::quantity_add
+param::145
+=====
+name::amazing guava
+method::price_abs
+param::-14
+=====
+name::luxurious screws
+method::quantity_add
+param::18
+=====
+name::HP LaserJet Pro
+method::available
+param::False
+=====
+name::attractive face wash
+method::quantity_sub
+param::-121
+=====
+name::Intel Core i5
+method::price_percent
+param::0.16
+=====
+name::EVGA 500B 80+ BRONZE
+method::remove
+param::
+=====
+name::refined wheelbarrow
+method::price_abs
+param::0
+=====
+name::Epson Expression Home XP
+method::available
+param::True
+=====
+name::sublime toner
+method::price_abs
+param::8
+=====
+name::attractive lotion
+method::remove
+param::
+=====
+name::Corsair HS60
+method::price_abs
+param::-13722
+=====
+name::Epson Expression Home XP
+method::available
+param::True
+=====
+name::Kingston Canvas Select Plus
+method::quantity_sub
+param::-3
+=====
+name::Kingston Canvas Select Plus
+method::price_percent
+param::0.11
+=====
+name::glamorous lotion
+method::available
+param::True
+=====
+name::Corsair HS60
+method::quantity_sub
+param::-3
+=====
+name::Ricoh Aficio MP
+method::price_percent
+param::-0.05
+=====
+name::attractive wheelbarrow
+method::available
+param::False
+=====
+name::amazing insulation
+method::quantity_add
+param::121
+=====
+name::sublime toner
+method::price_abs
+param::10
+=====
+name::sublime nails
+method::price_abs
+param::-1
+=====
+name::amazing nail file
+method::quantity_sub
+param::-78
+=====
+name::Logitech Wireless Keyboard
+method::price_percent
+param::0.01
+=====
+name::Ricoh Aficio MP
+method::available
+param::True
+=====
+name::Logitech Wireless Keyboard
+method::remove
+param::
+=====
+name::gorgeous kiwifruit
+method::quantity_sub
+param::-146
+=====
+name::attractive tile
+method::remove
+param::
+=====
+name::amazing boysenberry
+method::quantity_add
+param::134
+=====
+name::Epson Expression Home XP
+method::quantity_add
+param::6
+=====
+name::gorgeous nail file
+method::price_percent
+param::-0.1
+=====
+name::pleasant baseboard
+method::price_abs
+param::5
+=====
+name::refined serum
+method::price_abs
+param::6
+=====
+name::delightful mango
+method::available
+param::False
+=====
+name::EVGA 500B 80+ BRONZE
+method::remove
+param::
+=====
+name::Ricoh Aficio MP
+method::available
+param::True
+=====
+name::nice perfume
+method::price_percent
+param::0.14
+=====
+name::Brother DCP-T510W
+method::available
+param::True
+=====
+name::magnificent paint
+method::price_percent
+param::-0.01
+=====
+name::refined serum
+method::price_abs
+param::6
+=====
+name::HyperX DDR4 RAM
+method::price_abs
+param::-13050
+=====
+name::superb baby shampoo
+method::price_abs
+param::2
+=====
+name::Epson Expression Home XP
+method::remove
+param::
+=====
+name::gorgeous siding
+method::available
+param::True
+=====
+name::superb makeup remover
+method::quantity_add
+param::97
+=====
+name::attractive electrical
+method::quantity_add
+param::145
+=====
+name::Intel Core i5
+method::remove
+param::
+=====
+name::tasteful tile
+method::quantity_sub
+param::-61
+=====
+name::sublime shampoo
+method::remove
+param::
+=====
+name::amazing face wash
+method::quantity_sub
+param::-5
+=====
+name::EVGA 500B 80+ BRONZE
+method::quantity_add
+param::3
+=====
+name::Intel Core i5
+method::quantity_sub
+param::-1
+=====
+name::stylish tile
+method::quantity_add
+param::45
+=====
+name::Epson Expression Home XP
+method::price_abs
+param::4597
+=====
+name::nice eye cream
+method::quantity_add
+param::125
+=====
+name::gorgeous kiwifruit
+method::available
+param::True
+=====
+name::Intel Core i5
+method::available
+param::True
+=====
+name::amazing face wash
+method::price_abs
+param::3
+=====
+name::gorgeous moustache wax
+method::price_abs
+param::6
+=====
+name::Intel Core i5
+method::price_percent
+param::-0.09
+=====
+name::SteelSeries Arctis 7
+method::quantity_add
+param::8
+=====
+name::EVGA 500B 80+ BRONZE
+method::remove
+param::
+=====
+name::stylish pedicure set
+method::quantity_add
+param::59
+=====
+name::Logitech Wireless Keyboard
+method::price_percent
+param::0.08
+=====
+name::Epson Expression Home XP
+method::remove
+param::
+=====
+name::Epson Expression Home XP
+method::price_percent
+param::-0.1
+=====
+name::superb makeup remover
+method::price_abs
+param::-3
+=====
+name::superb makeup remover
+method::remove
+param::
+=====
+name::exquisite drywall
+method::price_percent
+param::-0.01
+=====
+name::beautiful siding
+method::price_percent
+param::0.09
+=====
+name::Corsair HS60
+method::remove
+param::
+=====
+name::Ricoh Aficio MP
+method::remove
+param::
+=====
+name::Epson Expression Home XP
+method::remove
+param::
+=====
+name::Intel Core i5
+method::quantity_sub
+param::-10
+=====
+name::Canon PIXMA
+method::available
+param::False
+=====
+name::Ricoh Aficio MP
+method::quantity_sub
+param::-1
+=====
+name::stylish tile
+method::price_abs
+param::0
+=====
+name::delightful blueberry
+method::quantity_sub
+param::-12
+=====
+name::attractive raspberry
+method::price_abs
+param::-1
+=====
+name::Samsung 970 EVO SSD
+method::price_percent
+param::-0.2
+=====
+name::Samsung 970 EVO SSD
+method::price_percent
+param::-0.19
+=====
+name::refined blackberry
+method::price_percent
+param::0.02
+=====
+name::refined facial cleanser
+method::quantity_add
+param::14
+=====
+name::refined facial cleanser
+method::available
+param::True
+=====
+name::Intel Core i5
+method::remove
+param::
+=====
+name::exquisite drywall
+method::quantity_sub
+param::-93
+=====
+name::attractive electrical
+method::quantity_add
+param::73
+=====
+name::beautiful lotion
+method::price_abs
+param::8
+=====
+name::beautiful trim
+method::quantity_sub
+param::-90
+=====
+name::magnificent insulation
+method::price_percent
+param::-0.15
+=====
+name::Intel Core i5
+method::quantity_add
+param::5
+=====
+name::HP LaserJet Pro
+method::remove
+param::
+=====
+name::SteelSeries Arctis 7
+method::available
+param::True
+=====
+name::superb makeup remover
+method::price_percent
+param::0.14
+=====
+name::Epson Expression Home XP
+method::quantity_sub
+param::-3
+=====
+name::superb baseboard
+method::price_abs
+param::-3
+=====
+name::luxurious roofing
+method::available
+param::False
+=====
+name::pleasant boysenberry
+method::quantity_add
+param::48
+=====
+name::sublime wheelbarrow
+method::quantity_sub
+param::-145
+=====
+name::elegant wallpaper
+method::available
+param::True
+=====
+name::Ricoh Aficio MP
+method::quantity_sub
+param::-2
+=====
+name::pleasant drywall
+method::quantity_sub
+param::-106
+=====
+name::HP LaserJet Pro
+method::quantity_sub
+param::-8
+=====
+name::Ricoh Aficio MP
+method::quantity_sub
+param::-1
+=====
+name::attractive axe
+method::price_abs
+param::9
+=====
+name::refined serum
+method::available
+param::True
+=====
+name::magnificent insulation
+method::quantity_add
+param::28
+=====
+name::beautiful lotion
+method::price_percent
+param::-0.16
+=====
+name::attractive lotion
+method::price_percent
+param::-0.12
+=====
+name::stylish wheelbarrow
+method::price_abs
+param::1
+=====
+name::Logitech Wireless Keyboard
+method::quantity_sub
+param::-3
+=====
+name::Canon PIXMA
+method::quantity_sub
+param::-9
+=====
+name::Brother DCP-T510W
+method::price_percent
+param::0.09
+=====
+name::AMD Ryzen 5
+method::price_percent
+param::-0.11
+=====
+name::trendy body wash
+method::quantity_add
+param::84
+=====
+name::amazing guava
+method::quantity_add
+param::57
+=====
+name::attractive wheelbarrow
+method::quantity_add
+param::84
+=====
+name::exquisite drywall
+method::quantity_add
+param::37
+=====
+name::Samsung 970 EVO SSD
+method::remove
+param::
+=====
+name::luxurious toner
+method::remove
+param::
+=====
+name::Canon PIXMA
+method::quantity_add
+param::10
+=====
+name::Intel Core i5
+method::available
+param::True
+=====
+name::stylish tile
+method::available
+param::True
+=====
+name::pretty night cream
+method::quantity_add
+param::16
+=====
+name::Kingston Canvas Select Plus
+method::available
+param::False
+=====
+name::superb makeup remover
+method::remove
+param::
+=====
+name::glamorous toothpaste
+method::price_abs
+param::106.02900000000001
+=====
+name::AMD Ryzen 5
+method::price_percent
+param::0.09
+=====
+name::superb baseboard
+method::quantity_sub
+param::-108
+=====
+name::attractive axe
+method::price_percent
+param::-0.07
+=====
+name::AMD Ryzen 5
+method::remove
+param::
+=====
+name::Canon PIXMA
+method::price_percent
+param::0.18
+=====
+name::HyperX DDR4 RAM
+method::remove
+param::
+=====
+name::luxurious tile
+method::price_abs
+param::-6
+=====
+name::pleasant boysenberry
+method::price_percent
+param::-0.06
+=====
+name::EVGA 500B 80+ BRONZE
+method::price_abs
+param::6032
+=====
+name::WD Blue HDD
+method::remove
+param::
+=====
+name::superb makeup remover
+method::quantity_add
+param::101
+=====
+name::Ricoh Aficio MP
+method::price_percent
+param::0.07
+=====
+name::glamorous peach
+method::available
+param::True
+=====
+name::attractive lotion
+method::price_abs
+param::-1
+=====
+name::trendy night cream
+method::price_abs
+param::-2
+=====
+name::magnificent insulation
+method::available
+param::False
+=====
+name::Canon PIXMA
+method::quantity_add
+param::9
+=====
+name::elegant insulation
+method::price_abs
+param::-3
+=====
+name::Corsair HS60
+method::quantity_add
+param::1
+=====
+name::HyperX DDR4 RAM
+method::quantity_sub
+param::-4
+=====
+name::Ricoh Aficio MP
+method::available
+param::True
+=====
+name::glamorous toothpaste
+method::price_abs
+param::4
+=====
+name::beautiful trim
+method::price_percent
+param::0.11
+=====
+name::Epson Expression Home XP
+method::available
+param::True
+=====
+name::beautiful nail polish
+method::price_abs
+param::3
+=====
+name::Epson Expression Home XP
+method::available
+param::False
+=====
+name::luxurious tile
+method::remove
+param::
+=====
+name::attractive face wash
+method::price_abs
+param::-7
+=====
+name::pretty plum
+method::price_percent
+param::0.14
+=====
+name::Canon PIXMA
+method::price_abs
+param::1986
+=====
+name::HyperX DDR4 RAM
+method::price_abs
+param::5679
+=====
+name::refined insulation
+method::quantity_sub
+param::-186
+=====
+name::Brother DCP-T510W
+method::remove
+param::
+=====
+name::Corsair HS60
+method::price_abs
+param::-8994
+=====
+name::Corsair HS60
+method::quantity_add
+param::2
+=====
+name::glamorous toothpaste
+method::remove
+param::
+=====
+name::amazing nail file
+method::price_percent
+param::-0.02
+=====
+name::Epson Expression Home XP
+method::quantity_sub
+param::-7
+=====
+name::elegant makeup remover
+method::remove
+param::
+=====
+name::beautiful scaffolding
+method::price_abs
+param::-17
+=====
+name::Brother DCP-T510W
+method::quantity_sub
+param::-10
+=====
+name::attractive body wash
+method::price_abs
+param::-7
+=====
+name::tasteful apple
+method::quantity_sub
+param::-3
+=====
+name::magnificent eye cream
+method::price_percent
+param::0.08
+=====
+name::gorgeous roofing
+method::price_abs
+param::-5
+=====
+name::refined blackberry
+method::price_abs
+param::-5
+=====
+name::SteelSeries Arctis 7
+method::quantity_sub
+param::-4
+=====
+name::Kingston Canvas Select Plus
+method::remove
+param::
+=====
+name::Epson Expression Home XP
+method::quantity_add
+param::3
+=====
+name::Canon PIXMA
+method::quantity_add
+param::2
+=====
+name::Samsung 970 EVO SSD
+method::price_abs
+param::-9137
+=====
+name::superb makeup remover
+method::available
+param::False
+=====
+name::EVGA 500B 80+ BRONZE
+method::quantity_add
+param::10
+=====
+name::trendy night cream
+method::available
+param::False
+=====
+name::refined facial cleanser
+method::remove
+param::
+=====
+name::refined wheelbarrow
+method::price_percent
+param::0.19
+=====
+name::magnificent insulation
+method::quantity_sub
+param::-26
+=====
+name::Intel Core i5
+method::available
+param::True
+=====
+name::WD Blue HDD
+method::price_abs
+param::3135
+=====
+name::pleasant drywall
+method::price_abs
+param::1
+=====
+name::marvelous plum
+method::quantity_sub
+param::-138
+=====
+name::refined wheelbarrow
+method::remove
+param::
+=====
+name::gorgeous roofing
+method::quantity_add
+param::46
+=====
+name::Brother DCP-T510W
+method::available
+param::True
+=====
+name::attractive lotion
+method::available
+param::False
+=====
+name::Corsair HS60
+method::available
+param::True
+=====
+name::delightful moustache wax
+method::available
+param::False
+=====
+name::glamorous toothpaste
+method::price_percent
+param::0.11
+=====
+name::Intel Core i5
+method::quantity_add
+param::3
+=====
+name::tasteful tile
+method::price_abs
+param::8
+=====
+name::magnificent eye cream
+method::quantity_sub
+param::-159
+=====
+name::refined grapes
+method::remove
+param::
+=====
+name::Intel Core i5
+method::remove
+param::
+=====
+name::trendy body wash
+method::remove
+param::
+=====
+name::sublime toner
+method::available
+param::True
+=====
+name::tasteful tile
+method::available
+param::False
+=====
+name::Samsung 970 EVO SSD
+method::price_percent
+param::0.08
+=====
+name::beautiful siding
+method::available
+param::True
+=====
+name::exquisite lip balm
+method::quantity_sub
+param::-124
+=====
+name::stylish pedicure set
+method::quantity_add
+param::20
+=====
+name::Canon PIXMA
+method::remove
+param::
+=====
+name::luxurious roofing
+method::price_abs
+param::-2
+=====
+name::EVGA 500B 80+ BRONZE
+method::available
+param::True
+=====
+name::gorgeous nail file
+method::quantity_sub
+param::-84
+=====
+name::trendy glue
+method::price_percent
+param::-0.05
+=====
+name::Logitech Wireless Keyboard
+method::quantity_add
+param::4
+=====
+name::pretty night cream
+method::available
+param::True
+=====
+name::elegant insulation
+method::remove
+param::
+=====
+name::amazing face wash
+method::quantity_add
+param::78
+=====
+name::beautiful nail file
+method::quantity_sub
+param::-94
+=====
+name::WD Blue HDD
+method::price_abs
+param::844
+=====
+name::amazing boysenberry
+method::quantity_add
+param::181
+=====
+name::gorgeous siding
+method::quantity_sub
+param::-147
+=====
+name::exquisite guava
+method::available
+param::True
+=====
+name::attractive raspberry
+method::available
+param::False
+=====
+name::Epson Expression Home XP
+method::quantity_sub
+param::-4
+=====
+name::beautiful nail file
+method::quantity_sub
+param::-121
+=====
+name::Intel Core i5
+method::available
+param::False
+=====
+name::Canon PIXMA
+method::quantity_add
+param::10
+=====
+name::nice perfume
+method::quantity_add
+param::58
+=====
+name::tasteful tile
+method::quantity_add
+param::22
+=====
+name::gorgeous moustache wax
+method::quantity_add
+param::71
+=====
+name::gorgeous roofing
+method::remove
+param::
+=====
+name::magnificent toner
+method::quantity_sub
+param::-68
+=====
+name::beautiful nail file
+method::available
+param::False
+=====
+name::Logitech Wireless Keyboard
+method::quantity_add
+param::1
+=====
+name::Logitech Wireless Keyboard
+method::quantity_sub
+param::-4
+=====
+name::stylish glue
+method::quantity_sub
+param::-66
+=====
+name::Canon PIXMA
+method::quantity_sub
+param::-3
+=====
+name::nice perfume
+method::price_percent
+param::-0.15
+=====
+name::Canon PIXMA
+method::available
+param::False
+=====
+name::EVGA 500B 80+ BRONZE
+method::quantity_add
+param::3
+=====
+name::magnificent toner
+method::available
+param::False
+=====
+name::EVGA 500B 80+ BRONZE
+method::price_abs
+param::-4645
+=====
+name::luxurious roofing
+method::quantity_add
+param::82
+=====
+name::attractive electrical
+method::price_abs
+param::16.335
+=====
+name::sublime shampoo
+method::price_percent
+param::-0.19
+=====
+name::gorgeous nail file
+method::quantity_add
+param::136
+=====
+name::Epson Expression Home XP
+method::price_abs
+param::-7704
+=====
+name::EVGA 500B 80+ BRONZE
+method::quantity_add
+param::11
+=====
+name::EVGA 500B 80+ BRONZE
+method::remove
+param::
+=====
+name::SteelSeries Arctis 7
+method::remove
+param::
+=====
+name::sublime toner
+method::price_abs
+param::-5
+=====
+name::Intel Core i5
+method::quantity_add
+param::3
+=====
+name::trendy shovel
+method::price_percent
+param::0.12
+=====
+name::Ricoh Aficio MP
+method::quantity_sub
+param::-6
+=====
+name::magnificent toner
+method::remove
+param::
+=====
+name::Intel Core i5
+method::available
+param::True
+=====
+name::stylish pedicure set
+method::price_abs
+param::6
+=====
+name::Epson Expression Home XP
+method::price_percent
+param::0.01
+=====
+name::delightful blueberry
+method::remove
+param::
+=====
+name::tasteful tile
+method::price_percent
+param::0.17
+=====
+name::Epson Expression Home XP
+method::price_percent
+param::0.16
+=====
+name::Intel Core i5
+method::remove
+param::
+=====
+name::Ricoh Aficio MP
+method::price_percent
+param::-0.17
+=====
+name::gorgeous nail file
+method::quantity_sub
+param::-99
+=====
+name::AMD Ryzen 5
+method::quantity_add
+param::6
+=====
+name::gorgeous nail file
+method::quantity_add
+param::83
+=====
+name::superb level
+method::price_abs
+param::3
+=====
+name::exquisite flooring
+method::price_abs
+param::-4
+=====
+name::Canon PIXMA
+method::price_percent
+param::0.05
+=====
+name::Samsung 970 EVO SSD
+method::available
+param::True
+=====
+name::amazing nail file
+method::available
+param::False
+=====
+name::stylish wheelbarrow
+method::price_abs
+param::2
+=====
+name::stylish plumbing
+method::quantity_add
+param::31
+=====
+name::Intel Core i5
+method::quantity_add
+param::10
+=====
+name::Razer Variau
+method::quantity_add
+param::7
+=====
+name::Intel Core i5
+method::price_percent
+param::-0.05
+=====
+name::Canon PIXMA
+method::remove
+param::
+=====
+name::EVGA 500B 80+ BRONZE
+method::remove
+param::
+=====
+name::superb level
+method::available
+param::True
+=====
+name::nice eye cream
+method::remove
+param::
+=====
+name::exquisite drywall
+method::remove
+param::
+=====
+name::glamorous night cream
+method::price_percent
+param::0.16
+=====
+name::attractive raspberry
+method::quantity_sub
+param::-158
+=====
+name::sublime nails
+method::available
+param::True
+=====
+name::AMD Ryzen 5
+method::quantity_add
+param::6
+=====
+name::Samsung 970 EVO SSD
+method::quantity_sub
+param::-4
+=====
+name::tasteful saw
+method::available
+param::True
+=====
+name::beautiful siding
+method::price_percent
+param::0.03
+=====
+name::superb apple
+method::quantity_sub
+param::-31
+=====
+name::Logitech Wireless Keyboard
+method::quantity_add
+param::7
+=====
+name::Intel Core i5
+method::available
+param::False
+=====
+name::tasteful face wash
+method::quantity_sub
+param::-164
+=====
+name::amazing insulation
+method::available
+param::True
+=====
+name::beautiful trim
+method::quantity_add
+param::8
+=====
+name::refined insulation
+method::remove
+param::
+=====
+name::EVGA 500B 80+ BRONZE
+method::remove
+param::
+=====
+name::luxurious plum
+method::quantity_sub
+param::-10
+=====
+name::Epson Expression Home XP
+method::price_percent
+param::0.12
+=====
+name::tasteful tile
+method::price_percent
+param::0.12
+=====
+name::gorgeous siding
+method::price_percent
+param::-0.03
+=====
+name::Corsair HS60
+method::available
+param::True
+=====
+name::Epson Expression Home XP
+method::quantity_sub
+param::-14
+=====
+name::elegant insulation
+method::price_percent
+param::-0.17
+=====
+name::exquisite lip balm
+method::available
+param::True
+=====
+name::sublime nails
+method::price_percent
+param::-0.13
+=====
+name::EVGA 500B 80+ BRONZE
+method::price_percent
+param::0.11
+=====
+name::trendy night cream
+method::remove
+param::
+=====
+name::luxurious pineapple
+method::price_abs
+param::-2
+=====
+name::attractive raspberry
+method::quantity_sub
+param::-140
+=====
+name::EVGA 500B 80+ BRONZE
+method::price_percent
+param::0.2
+=====
+name::HP LaserJet Pro
+method::remove
+param::
+=====
+name::Brother DCP-T510W
+method::quantity_add
+param::1
+=====
+name::delightful blueberry
+method::price_abs
+param::-3
+=====
+name::pleasant ladder
+method::quantity_sub
+param::-11
+=====
+name::Ricoh Aficio MP
+method::quantity_add
+param::2
+=====
+name::Intel Core i5
+method::available
+param::True
+=====
+name::nice body wash
+method::quantity_add
+param::69
+=====
+name::pleasant drywall
+method::quantity_add
+param::35
+=====
+name::nice eye cream
+method::remove
+param::
+=====
+name::refined serum
+method::quantity_sub
+param::-97
+=====
+name::exquisite drywall
+method::price_percent
+param::-0.04
+=====
+name::tasteful tile
+method::quantity_sub
+param::-126
+=====
+name::HP LaserJet Pro
+method::quantity_sub
+param::-7
+=====
+name::beautiful nail file
+method::quantity_add
+param::115
+=====
+name::Logitech Wireless Keyboard
+method::quantity_add
+param::11
+=====
+name::glamorous lotion
+method::quantity_sub
+param::-48
+=====
+name::luxurious roofing
+method::remove
+param::
+=====
+name::sublime wheelbarrow
+method::quantity_sub
+param::-87
+=====
+name::Canon PIXMA
+method::price_abs
+param::1023
+=====
+name::Logitech Wireless Keyboard
+method::available
+param::True
+=====
+name::AMD Ryzen 5
+method::quantity_sub
+param::-9
+=====
+name::magnificent insulation
+method::remove
+param::
+=====
+name::gorgeous kiwifruit
+method::price_abs
+param::-1
+=====
+name::amazing boysenberry
+method::quantity_sub
+param::-132
+=====
+name::refined blackberry
+method::quantity_sub
+param::-155
+=====
+name::Ricoh Aficio MP
+method::remove
+param::
+=====
+name::tasteful apple
+method::quantity_sub
+param::-17
+=====
+name::glamorous lotion
+method::price_percent
+param::-0.07
+=====
+name::Kingston Canvas Select Plus
+method::price_percent
+param::0.12
+=====
+name::amazing guava
+method::remove
+param::
+=====
+name::stylish pineapple
+method::quantity_add
+param::8
+=====
+name::Intel Core i5
+method::quantity_add
+param::3
+=====
+name::sublime nails
+method::quantity_add
+param::118
+=====
+name::luxurious roofing
+method::available
+param::False
+=====
+name::attractive tile
+method::quantity_add
+param::67
+=====
+name::luxurious tile
+method::price_abs
+param::9
+=====
+name::gorgeous kiwifruit
+method::remove
+param::
+=====
+name::Intel Core i5
+method::price_percent
+param::0.14
+=====
+name::gorgeous siding
+method::available
+param::True
+=====
+name::sublime shampoo
+method::price_percent
+param::-0.05
+=====
+name::marvelous blackberry
+method::available
+param::True
+=====
+name::pleasant boysenberry
+method::remove
+param::
+=====
+name::Intel Core i5
+method::price_percent
+param::0.02
+=====
+name::elegant makeup remover
+method::price_abs
+param::-3
+=====
+name::Ricoh Aficio MP
+method::price_percent
+param::0.18
+=====
+name::Epson Expression Home XP
+method::remove
+param::
+=====
+name::nice perfume
+method::price_percent
+param::0.11
+=====
+name::gorgeous siding
+method::available
+param::False
+=====
+name::delightful facial cleanser
+method::price_abs
+param::-7
+=====
+name::Intel Core i5
+method::quantity_add
+param::1
+=====
+name::tasteful tile
+method::quantity_add
+param::91
+=====
+name::stylish tile
+method::quantity_add
+param::128
+=====
+name::AMD Ryzen 5
+method::quantity_add
+param::3
+=====
+name::refined wheelbarrow
+method::price_abs
+param::3
+=====
+name::superb baseboard
+method::available
+param::True
+=====
+name::Corsair HS60
+method::available
+param::True
+=====
+name::attractive electrical
+method::remove
+param::
+=====
+name::beautiful trim
+method::price_abs
+param::2
+=====
+name::gorgeous moustache wax
+method::available
+param::False
+=====
+name::Ricoh Aficio MP
+method::price_abs
+param::5202
+=====
+name::superb baseboard
+method::price_percent
+param::-0.03
+=====
+name::stylish boysenberry
+method::quantity_add
+param::92
+=====
+name::Logitech Wireless Keyboard
+method::price_abs
+param::-3980
+=====
+name::HyperX DDR4 RAM
+method::price_abs
+param::-11895
+=====
+name::magnificent insulation
+method::quantity_add
+param::29
+=====
+name::HP LaserJet Pro
+method::price_percent
+param::-0.09
+=====
+name::WD Blue HDD
+method::price_percent
+param::0.2
+=====
+name::nice body wash
+method::remove
+param::
+=====
+name::glamorous peach
+method::available
+param::True
+=====
+name::delightful blueberry
+method::quantity_sub
+param::-9
+=====
+name::delightful saw
+method::price_abs
+param::7
+=====
+name::attractive raspberry
+method::quantity_add
+param::176
+=====
+name::gorgeous roofing
+method::available
+param::False
+=====
+name::luxurious pineapple
+method::price_abs
+param::4
+=====
+name::delightful facial cleanser
+method::quantity_add
+param::71
+=====
+name::trendy body wash
+method::quantity_add
+param::140
+=====
+name::glamorous night cream
+method::quantity_add
+param::116
+=====
+name::beautiful scaffolding
+method::quantity_sub
+param::-72
+=====
+name::Canon PIXMA
+method::quantity_add
+param::3
+=====
+name::elegant makeup remover
+method::price_abs
+param::4
+=====
+name::luxurious roofing
+method::remove
+param::
+=====
