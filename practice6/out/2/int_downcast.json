@@ -1,0 +1,1 @@
+{"df_int_size": 173.69999999999993, "df_int_downcast_size": 76.03000000000003, "type_conversion": {"before": {"msrp": "int64", "askPrice": "int64", "mileage": "int64", "dealerID": "int64"}, "after": {"msrp": "uint32", "askPrice": "uint32", "mileage": "uint32", "dealerID": "uint16"}}}
